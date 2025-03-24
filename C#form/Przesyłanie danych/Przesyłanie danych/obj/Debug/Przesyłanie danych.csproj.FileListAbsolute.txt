@@ -1,0 +1,11 @@
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie danych.csproj.AssemblyReference.cache
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\bin\Debug\Przesyłanie danych.exe.config
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\bin\Debug\Przesyłanie danych.exe
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\bin\Debug\Przesyłanie danych.pdb
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie_danych.Form1.resources
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie_danych.Form2.resources
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie_danych.Properties.Resources.resources
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie danych.csproj.GenerateResource.cache
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie danych.csproj.CoreCompileInputs.cache
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie danych.exe
+C:\Users\sala104a\Desktop\24.03.2025\Przesyłanie danych\Przesyłanie danych\obj\Debug\Przesyłanie danych.pdb

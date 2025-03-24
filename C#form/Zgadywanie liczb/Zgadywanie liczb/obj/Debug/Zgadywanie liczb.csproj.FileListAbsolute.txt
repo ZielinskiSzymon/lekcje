@@ -1,0 +1,11 @@
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie liczb.csproj.AssemblyReference.cache
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie_liczb.Form1.resources
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie_liczb.Form2.resources
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie_liczb.Properties.Resources.resources
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie liczb.csproj.GenerateResource.cache
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie liczb.csproj.CoreCompileInputs.cache
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\bin\Debug\Zgadywanie liczb.exe.config
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\bin\Debug\Zgadywanie liczb.exe
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\bin\Debug\Zgadywanie liczb.pdb
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie liczb.exe
+C:\Users\sala104a\Desktop\24.03.2025\Zgadywanie liczb\Zgadywanie liczb\obj\Debug\Zgadywanie liczb.pdb
