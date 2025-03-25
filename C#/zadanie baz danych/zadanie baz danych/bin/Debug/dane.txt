@@ -1,0 +1,3 @@
+Szymon,Dzido,14
+Ewa,Dz,15
+Milan,Sisko,18

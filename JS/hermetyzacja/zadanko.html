@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        class KontoBankowe{
+            #saldo
+            #historia
+            constructor(saldo){
+                this.#saldo = saldo
+                this.#historia = []
+            }
+            wyplac(kwota){
+                if(this.#saldo >= kwota){
+                    this.#saldo -= kwota
+                    this.#dodajDoHistorii("wyplata", kwota)
+                }else
+                    console.log("Brak srodkow na koncie")
+            }
+            wplac(kwota){
+                this.#saldo += kwota
+                this.#dodajDoHistorii("wplata", kwota)
+            }
+            pokazSaldo(){
+                console.log(this.#saldo)
+            }
+            pokazHistorie(){
+                for(let operacja of this.#historia){
+                    console.log(operacja.operacja + " " + operacja.kwota)
+                }
+            }
+            #dodajDoHistorii(operacja, kwota){
+                this.#historia.push({operacja, kwota})
+            }
+        }
+
+        const konto = new KontoBankowe(1000)
+
+        konto.wyplac(200)
+        konto.wplac(500)
+        konto.pokazSaldo()
+        konto.pokazHistorie()
+    </script>
+
+
+</body>
+</html>

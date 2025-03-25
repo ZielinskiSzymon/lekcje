@@ -1,0 +1,7 @@
+D:\3 klasa\C#\dziedziczenie klas cz2\dziedziczenie klas cz2\obj\Debug\dziedziczenie klas cz2.csproj.AssemblyReference.cache
+D:\3 klasa\C#\dziedziczenie klas cz2\dziedziczenie klas cz2\obj\Debug\dziedziczenie klas cz2.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\dziedziczenie klas cz2\dziedziczenie klas cz2\bin\Debug\dziedziczenie klas cz2.exe.config
+D:\3 klasa\C#\dziedziczenie klas cz2\dziedziczenie klas cz2\bin\Debug\dziedziczenie klas cz2.exe
+D:\3 klasa\C#\dziedziczenie klas cz2\dziedziczenie klas cz2\bin\Debug\dziedziczenie klas cz2.pdb
+D:\3 klasa\C#\dziedziczenie klas cz2\dziedziczenie klas cz2\obj\Debug\dziedziczenie klas cz2.exe
+D:\3 klasa\C#\dziedziczenie klas cz2\dziedziczenie klas cz2\obj\Debug\dziedziczenie klas cz2.pdb

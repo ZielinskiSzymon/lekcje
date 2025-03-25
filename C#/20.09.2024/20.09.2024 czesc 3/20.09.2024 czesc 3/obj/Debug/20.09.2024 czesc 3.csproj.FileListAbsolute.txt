@@ -1,0 +1,7 @@
+D:\3 klasa\Aplikacje desktopowe i mobilne\20.09.2024 czesc 3\20.09.2024 czesc 3\bin\Debug\20.09.2024 czesc 3.exe.config
+D:\3 klasa\Aplikacje desktopowe i mobilne\20.09.2024 czesc 3\20.09.2024 czesc 3\bin\Debug\20.09.2024 czesc 3.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\20.09.2024 czesc 3\20.09.2024 czesc 3\bin\Debug\20.09.2024 czesc 3.pdb
+D:\3 klasa\Aplikacje desktopowe i mobilne\20.09.2024 czesc 3\20.09.2024 czesc 3\obj\Debug\20.09.2024 czesc 3.csproj.AssemblyReference.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\20.09.2024 czesc 3\20.09.2024 czesc 3\obj\Debug\20.09.2024 czesc 3.csproj.CoreCompileInputs.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\20.09.2024 czesc 3\20.09.2024 czesc 3\obj\Debug\20.09.2024 czesc 3.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\20.09.2024 czesc 3\20.09.2024 czesc 3\obj\Debug\20.09.2024 czesc 3.pdb

@@ -1,0 +1,11 @@
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\bin\Debug\Generator haseł.exe.config
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\bin\Debug\Generator haseł.exe
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\bin\Debug\Generator haseł.pdb
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator haseł.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator haseł.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator_haseł.Form1.resources
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator_haseł.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator haseł.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator haseł.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator haseł.exe
+E:\3 klasa\C# okienkowy\Generator haseł\Generator haseł\obj\Debug\Generator haseł.pdb

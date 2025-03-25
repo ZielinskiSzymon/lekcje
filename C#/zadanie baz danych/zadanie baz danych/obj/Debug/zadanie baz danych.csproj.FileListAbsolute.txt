@@ -1,0 +1,8 @@
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\bin\Debug\zadanie baz danych.exe.config
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\bin\Debug\zadanie baz danych.exe
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\bin\Debug\zadanie baz danych.pdb
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\obj\Debug\zadanie baz danych.csproj.AssemblyReference.cache
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\obj\Debug\zadanie baz danych.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\obj\Debug\zadanie baz danych.csproj.CoreCompileInputs.cache
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\obj\Debug\zadanie baz danych.exe
+E:\3 klasa\C#\zadanie baz danych\zadanie baz danych\obj\Debug\zadanie baz danych.pdb

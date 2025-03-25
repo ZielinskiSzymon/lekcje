@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wektory przestrzenne", "Wektory przestrzenne\Wektory przestrzenne.csproj", "{64170515-FF30-464E-8AB7-E211C0648560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64170515-FF30-464E-8AB7-E211C0648560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64170515-FF30-464E-8AB7-E211C0648560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64170515-FF30-464E-8AB7-E211C0648560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64170515-FF30-464E-8AB7-E211C0648560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F138A853-8886-434F-A37F-F71C030631CE}
+	EndGlobalSection
+EndGlobal

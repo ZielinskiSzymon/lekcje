@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <select name="miesiac" id="miesiac"></select>
+    <select name="dzien" id="dzien"></select>
+    <div id="wynik"></div>
+
+    <script>
+        const miesiace = [
+            ["Styczeń", 31],
+            ["Luty", 28],
+            ["Marzec", 31],
+            ["Kwiecień", 30],
+            ["Maj", 31],
+            ["Czerwiec", 30],
+            ["Lipiec", 31],
+            ["Sierpień", 31],
+            ["Wrzesień", 30],
+            ["Październik", 31],
+            ["Listopad", 30],
+            ["Grudzień", 31]
+        ];
+        
+        const miesiacSelect = document.getElementById('miesiac');
+        const dzienSelect = document.getElementById('dzien');
+        
+        function dni() {
+            const wybranyMiesiac = miesiacSelect.value;
+            dzienSelect.innerHTML = "";
+            for (let i = 1; i <= miesiace[wybranyMiesiac][1]; i++) {
+                let opcja = document.createElement("option");
+                opcja.value = i;
+                opcja.textContent = i;
+                dzienSelect.appendChild(opcja);
+            }
+            obliczDniDoImienin();
+        }
+
+        function obliczDniDoImienin() {
+            const wybranyMiesiac = parseInt(miesiacSelect.value);
+            const wybranyDzien = parseInt(dzienSelect.value);
+            const dzisiaj = new Date();
+            const rok = dzisiaj.getFullYear();
+            const dataImienin = new Date(rok, wybranyMiesiac, wybranyDzien);
+            
+            if (dataImienin < dzisiaj) {
+                dataImienin.setFullYear(rok + 1);
+            }
+            
+            const roznicaCzasu = dataImienin - dzisiaj;
+            const roznicaDni = Math.round(roznicaCzasu / (1000 * 60 * 60 * 24));
+            
+            console.log(dataImienin)
+            console.log(dzisiaj)
+
+            document.querySelector("#wynik").textContent =  `Do imienin zostało ${roznicaDni} dni.`
+        }
+
+        miesiace.forEach((miesiac, index) => {
+            const opcja = document.createElement('option');
+            opcja.value = index;
+            opcja.textContent = miesiac[0];
+            miesiacSelect.appendChild(opcja);
+        });
+
+        miesiacSelect.addEventListener("change", dni);
+        dzienSelect.addEventListener("change", obliczDniDoImienin);
+
+        window.onload = () => {
+            for (let i = 1; i <=31; i++) {
+                let opcja = document.createElement("option");
+                opcja.value = i;
+                opcja.textContent = i;
+                dzienSelect.appendChild(opcja);
+            }
+        };
+    </script>
+</body>
+</html>

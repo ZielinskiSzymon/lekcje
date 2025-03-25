@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    margin: 150px 0 0 0;
+}
+#btn{
+    padding: 20px 30px;
+    border-radius: 10px;
+    color: black;
+    background-color: lightblue;
+    border: 2px black solid;
+}
+input{
+    height: 50px;
+    border-radius: 10px;
+    border: 2px black solid;
+}
+#taskCntent{
+    width: 210px;
+}
+#date{
+    width: 100px;
+}
+.tasks{
+    width: 400px;
+    min-height: 100px;
+    background-color: lightgray;
+    margin: 50px 0 0 0;    
+    border-radius: 20px;
+    border: 1px solid black;
+    line-height: 100px;
+    padding: 0 20px;
+}
+.content{
+    width: 100px;
+}
+.remove{
+    margin-top: 20px;
+    float: right;
+    background-color: red;
+    height: 50px;
+    border: none;
+    text-align: center;
+    line-height: 0;
+    width: 80px;
+}
+#counter{
+    margin-top: 20px;
+}
+#count{
+    font-weight: bolder;
+}
+.red{
+    background-color: rgba(255, 0, 0, 0.6);
+}
+.orange{
+    background-color: rgba(255, 98, 0, 0.6);
+}

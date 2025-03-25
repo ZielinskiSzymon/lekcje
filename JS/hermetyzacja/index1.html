@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // Prywatne i Publiczne włąsciwości
+
+        //Domyślnie wszystkie metody i właściwości obiektów sa publiczne w JS
+        //Włąściwości publiczne sa domyslnie wszystki właściwośźi obiektu w JS sa publiczne
+
+        class Samochod{
+            constructor(marka, model){
+                this.marka = marka
+                this.model = model
+            }
+        }
+
+        const auto = new Samochod("Toyota", "Corolla")
+
+        console.log(auto.marka)
+        console.log(auto.model)
+
+        auto.marka = "Honda"
+
+        console.log(auto.marka)
+
+        //      Sposoby na ukrycie właściwości
+        // Prywatne pola (#)
+        // WeakMap
+        // Getter i Setter
+
+        class Kontobankowe{
+            #saldo
+            constructor(saldo){
+                this.#saldo = saldo
+            }   
+            getSaldo(){
+                return this.#saldo
+            }
+        }
+
+        const konto = new Kontobankowe(1000)
+
+        console.log(konto.getSaldo())
+        console.log("")
+
+        // console.log(konto.#saldo) // Błąd
+
+        // WeakMap
+
+        const saldo = new WeakMap()
+
+        class Kontobankowe2{
+            constructor(initialSaldo){
+                saldo.set(this, initialSaldo)
+            }
+            wplata(kwota){
+                saldo.set(this, saldo.get(this) + kwota)
+            }
+            getSaldo(){
+                return saldo.get(this)
+            }
+        }    
+
+        const konto2 = new Kontobankowe2(1000)
+        console.log(konto2.getSaldo())
+        konto2.wplata(500)
+        console.log(konto2.getSaldo())
+        console.log("")
+
+        // Getter i Setter
+
+        class Kontobankowe3{
+            #saldo
+            constructor(saldo){
+                this.#saldo = saldo
+            }
+            get saldo(){
+                return this.#saldo
+            }
+            set saldo(value){
+                if(value < 0) throw new Error("Saldo nie może być ujemne")
+                this.#saldo = value
+            }
+        }
+
+        const konto3 = new Kontobankowe3(1000)
+        console.log(konto3.saldo)
+        konto3.saldo = -12
+        console.log(konto3.saldo)
+        console.log("")
+    </script>
+</body>
+</html>

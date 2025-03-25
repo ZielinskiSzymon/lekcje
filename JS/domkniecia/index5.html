@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+        let licznik=1
+        licznik = localStorage.getItem("licznik")
+        document.body.textContent = "Sekundy na stronie " +licznik
+        function zewnetrzna(){            
+            const dodaj = () =>{
+                licznik++
+                document.body.textContent = "Sekundy na stronie " +licznik
+                localStorage.setItem("licznik", licznik)
+            }
+            return dodaj()
+
+        }
+
+        setInterval(zewnetrzna, 1000)
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 klasa\\C# okienkowy\\Zadanie teams\\zadanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CF7C7E-0E84-4AD4-A935-54E2999380A4}|zadanie.csproj|d:\\3 klasa\\c# okienkowy\\zadanie teams\\zadanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CF7C7E-0E84-4AD4-A935-54E2999380A4}|zadanie.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CF7C7E-0E84-4AD4-A935-54E2999380A4}|zadanie.csproj|D:\\3 klasa\\C# okienkowy\\Zadanie teams\\zadanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22CF7C7E-0E84-4AD4-A935-54E2999380A4}|zadanie.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\3 klasa\\C# okienkowy\\Zadanie teams\\zadanie\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\3 klasa\\C# okienkowy\\Zadanie teams\\zadanie\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:09:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "D:\\3 klasa\\C# okienkowy\\Zadanie teams\\zadanie\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\szkola\\M_JADCZAK\\C#\\12.06\\zadanie\\Form1.cs [Projekt]",
+              "RelativeToolTip": "..\\..\\..\\..\\szkola\\M_JADCZAK\\C#\\12.06\\zadanie\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:07:18.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

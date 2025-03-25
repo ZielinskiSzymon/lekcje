@@ -1,0 +1,11 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\bin\Debug\Referencje.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\bin\Debug\Referencje.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\bin\Debug\Referencje.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\Referencje\Referencje\obj\Debug\Referencje.pdb

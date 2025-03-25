@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styl.css">
+    <title>Kalkulator rachunków</title>
+</head>
+<body>
+    <div class="inputs">
+        <h1>Kalkulator opłat rachunków</h1>
+        <input type="text" id="name" class="inputs1" placeholder="Nazwa usługi">
+        <input type="number" id="kwota" class="inputs1" placeholder="Kwota opłaty">
+        <button id="add" class="btns1">Dodaj opłate</button><br>
+    </div>
+    <div class="elements">
+        <table id="table">
+            <tr class="tr1">
+                <th>Usługi</th>
+                <th>Kwota</th>
+                <th>Akcja</th>
+            </tr>
+
+        </table>
+    </div>
+    <div class="sort">
+        <h2>Koszt całkowity: <span id="kosztCalkowity">00.00 zł</span></h4>
+        <button id="sortAscending" class="btns1">Sortuj rosnąco</button>
+        <button id="sortDescending" class="btns1">Sortuj malejąco</button><br>
+        <input type="text" id="search" class="inputs1" placeholder="Szukaj usługi">
+        <button id="filtr" class="btns1">Filtruj</button>
+        <button id="usunFiltr" class="btns1">Usuń Filtr</button><br>
+        <button id="eksport" class="btns1">Eksportuj do csv</button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

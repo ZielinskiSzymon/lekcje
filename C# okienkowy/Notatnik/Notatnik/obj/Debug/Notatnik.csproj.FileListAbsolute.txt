@@ -1,0 +1,11 @@
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.AssemblyReference.cache
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+E:\3 klasa\c# okienkowy\Notatnik\Notatnik\obj\Debug\Notatnik.status.resources

@@ -1,0 +1,7 @@
+D:\3 klasa\C#\Zadanie z ciągów\Zadanie z ciągów\bin\Debug\Zadanie z ciągów.exe.config
+D:\3 klasa\C#\Zadanie z ciągów\Zadanie z ciągów\bin\Debug\Zadanie z ciągów.exe
+D:\3 klasa\C#\Zadanie z ciągów\Zadanie z ciągów\bin\Debug\Zadanie z ciągów.pdb
+D:\3 klasa\C#\Zadanie z ciągów\Zadanie z ciągów\obj\Debug\Zadanie z ciągów.csproj.AssemblyReference.cache
+D:\3 klasa\C#\Zadanie z ciągów\Zadanie z ciągów\obj\Debug\Zadanie z ciągów.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\Zadanie z ciągów\Zadanie z ciągów\obj\Debug\Zadanie z ciągów.exe
+D:\3 klasa\C#\Zadanie z ciągów\Zadanie z ciągów\obj\Debug\Zadanie z ciągów.pdb

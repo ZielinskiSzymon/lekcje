@@ -1,0 +1,8 @@
+E:\3 klasa\C#\Pliki2\Pliki2\bin\Debug\Pliki2.exe.config
+E:\3 klasa\C#\Pliki2\Pliki2\bin\Debug\Pliki2.exe
+E:\3 klasa\C#\Pliki2\Pliki2\bin\Debug\Pliki2.pdb
+E:\3 klasa\C#\Pliki2\Pliki2\obj\Debug\Pliki2.csproj.AssemblyReference.cache
+E:\3 klasa\C#\Pliki2\Pliki2\obj\Debug\Pliki2.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C#\Pliki2\Pliki2\obj\Debug\Pliki2.csproj.CoreCompileInputs.cache
+E:\3 klasa\C#\Pliki2\Pliki2\obj\Debug\Pliki2.exe
+E:\3 klasa\C#\Pliki2\Pliki2\obj\Debug\Pliki2.pdb

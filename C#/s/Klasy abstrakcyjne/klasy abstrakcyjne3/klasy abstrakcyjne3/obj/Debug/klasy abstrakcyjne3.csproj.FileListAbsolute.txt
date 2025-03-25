@@ -1,0 +1,14 @@
+D:\3 klasa\C#\klasy abstrakcyjne3\klasy abstrakcyjne3\bin\Debug\klasy abstrakcyjne3.exe.config
+D:\3 klasa\C#\klasy abstrakcyjne3\klasy abstrakcyjne3\bin\Debug\klasy abstrakcyjne3.exe
+D:\3 klasa\C#\klasy abstrakcyjne3\klasy abstrakcyjne3\bin\Debug\klasy abstrakcyjne3.pdb
+D:\3 klasa\C#\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.csproj.AssemblyReference.cache
+D:\3 klasa\C#\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.exe
+D:\3 klasa\C#\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.pdb
+D:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne3\klasy abstrakcyjne3\bin\Debug\klasy abstrakcyjne3.exe.config
+D:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne3\klasy abstrakcyjne3\bin\Debug\klasy abstrakcyjne3.exe
+D:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne3\klasy abstrakcyjne3\bin\Debug\klasy abstrakcyjne3.pdb
+D:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.csproj.AssemblyReference.cache
+D:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.exe
+D:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne3\klasy abstrakcyjne3\obj\Debug\klasy abstrakcyjne3.pdb

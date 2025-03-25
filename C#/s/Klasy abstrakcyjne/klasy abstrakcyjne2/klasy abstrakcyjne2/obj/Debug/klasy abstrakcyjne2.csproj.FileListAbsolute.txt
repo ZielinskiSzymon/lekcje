@@ -1,0 +1,7 @@
+D:\3 klasa\C#\klasy abstrakcyjne2\klasy abstrakcyjne2\bin\Debug\klasy abstrakcyjne2.exe.config
+D:\3 klasa\C#\klasy abstrakcyjne2\klasy abstrakcyjne2\bin\Debug\klasy abstrakcyjne2.exe
+D:\3 klasa\C#\klasy abstrakcyjne2\klasy abstrakcyjne2\bin\Debug\klasy abstrakcyjne2.pdb
+D:\3 klasa\C#\klasy abstrakcyjne2\klasy abstrakcyjne2\obj\Debug\klasy abstrakcyjne2.csproj.AssemblyReference.cache
+D:\3 klasa\C#\klasy abstrakcyjne2\klasy abstrakcyjne2\obj\Debug\klasy abstrakcyjne2.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\klasy abstrakcyjne2\klasy abstrakcyjne2\obj\Debug\klasy abstrakcyjne2.exe
+D:\3 klasa\C#\klasy abstrakcyjne2\klasy abstrakcyjne2\obj\Debug\klasy abstrakcyjne2.pdb

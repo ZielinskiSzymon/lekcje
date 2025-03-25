@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmy</title>
+</head>
+<body>
+    <form id="formularzFilmow">
+        <div>
+            <label for="tytul1">Tytuł filmu 1:</label>
+            <input type="text" id="tytul1" name="tytul1" placeholder="Wpisz tytuł" required>
+            <label for="ocena1">Ocena:</label>
+            <input type="number" name="ocena1" id="ocena1" min="0" max="10" step="0.1"placeholder="Wpisz ocenę" required>
+        </div>
+        <div>
+            <label for="tytul2">Tytuł filmu 2:</label>
+            <input type="text" id="tytul2" name="tytul2" placeholder="Wpisz tytuł" required>
+            <label for="ocena2">Ocena:</label>
+            <input type="number" name="ocena2" id="ocena2" min="0" max="10" step="0.1"placeholder="Wpisz ocenę" required>
+        </div>
+        <div>
+            <label for="tytul3">Tytuł filmu 3:</label>
+            <input type="text" id="tytul3" name="tytul3" placeholder="Wpisz tytuł" required>
+            <label for="ocena3">Ocena:</label>
+            <input type="number" name="ocena3" id="ocena3" min="0" max="10" step="0.1"placeholder="Wpisz ocenę" required>
+        </div>
+
+        <input type="submit" value="Prześlij">
+    </form>
+
+    <ul id="Wyniki">
+
+    </ul>
+    <script src="zadanie3.js"></script>
+</body>
+</html>

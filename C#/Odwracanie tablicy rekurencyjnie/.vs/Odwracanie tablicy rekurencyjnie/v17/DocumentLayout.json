@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programowanie\\Desktop\\mz\\szkola\\M_JADCZAK\\C#\\Odwracanie tablicy rekurencyjnie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B32510-2E2E-41A0-A63A-90B4CE853555}|Odwracanie tablicy rekurencyjnie\\Odwracanie tablicy rekurencyjnie.csproj|c:\\users\\programowanie\\desktop\\mz\\szkola\\m_jadczak\\c#\\odwracanie tablicy rekurencyjnie\\odwracanie tablicy rekurencyjnie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B32510-2E2E-41A0-A63A-90B4CE853555}|Odwracanie tablicy rekurencyjnie\\Odwracanie tablicy rekurencyjnie.csproj|solutionrelative:odwracanie tablicy rekurencyjnie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Programowanie\\Desktop\\mz\\szkola\\M_JADCZAK\\C#\\Odwracanie tablicy rekurencyjnie\\Odwracanie tablicy rekurencyjnie\\Program.cs",
+              "RelativeDocumentMoniker": "Odwracanie tablicy rekurencyjnie\\Program.cs",
+              "ToolTip": "C:\\Users\\Programowanie\\Desktop\\mz\\szkola\\M_JADCZAK\\C#\\Odwracanie tablicy rekurencyjnie\\Odwracanie tablicy rekurencyjnie\\Program.cs",
+              "RelativeToolTip": "Odwracanie tablicy rekurencyjnie\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:37:49.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

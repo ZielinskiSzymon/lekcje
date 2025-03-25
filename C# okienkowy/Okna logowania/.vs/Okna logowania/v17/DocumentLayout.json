@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|e:\\3 klasa\\c# okienkowy\\okna logowania\\okna logowania\\ekrankoncowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\ekrankoncowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|e:\\3 klasa\\c# okienkowy\\okna logowania\\okna logowania\\ekrankoncowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\ekrankoncowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|E:\\3 klasa\\C# okienkowy\\Okna logowania\\okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|e:\\3 klasa\\c# okienkowy\\okna logowania\\okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|E:\\3 klasa\\C# okienkowy\\Okna logowania\\okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|E:\\3 klasa\\C# okienkowy\\Okna logowania\\okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EkranKoncowy.cs",
+              "DocumentMoniker": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\EkranKoncowy.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\EkranKoncowy.cs",
+              "ToolTip": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\EkranKoncowy.cs",
+              "RelativeToolTip": "Okna logowania\\EkranKoncowy.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:15:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EkranKoncowy.cs [Projekt]",
+              "DocumentMoniker": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\EkranKoncowy.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\EkranKoncowy.cs",
+              "ToolTip": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\EkranKoncowy.cs [Projekt]",
+              "RelativeToolTip": "Okna logowania\\EkranKoncowy.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:14:28.038Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rejestracja.cs",
+              "DocumentMoniker": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Rejestracja.cs",
+              "ToolTip": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs",
+              "RelativeToolTip": "Okna logowania\\Rejestracja.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:46:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logowanie.cs",
+              "DocumentMoniker": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Logowanie.cs",
+              "ToolTip": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs",
+              "RelativeToolTip": "Okna logowania\\Logowanie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:46:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rejestracja.cs [Projekt]",
+              "DocumentMoniker": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Rejestracja.cs",
+              "ToolTip": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs [Projekt]",
+              "RelativeToolTip": "Okna logowania\\Rejestracja.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:58:16.56Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logowanie.cs [Projekt]",
+              "DocumentMoniker": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Logowanie.cs",
+              "ToolTip": "E:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs [Projekt]",
+              "RelativeToolTip": "Okna logowania\\Logowanie.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:55:28.067Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

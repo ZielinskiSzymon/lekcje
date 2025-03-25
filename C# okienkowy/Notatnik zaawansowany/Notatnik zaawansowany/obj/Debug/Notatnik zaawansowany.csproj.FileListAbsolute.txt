@@ -1,0 +1,21 @@
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\bin\Debug\Notatnik zaawansowany.exe.config
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\bin\Debug\Notatnik zaawansowany.exe
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\bin\Debug\Notatnik zaawansowany.pdb
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik_zaawansowany.Form1.resources
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik_zaawansowany.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.exe
+E:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.pdb
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\bin\Debug\Notatnik zaawansowany.exe.config
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\bin\Debug\Notatnik zaawansowany.exe
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\bin\Debug\Notatnik zaawansowany.pdb
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.csproj.AssemblyReference.cache
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik_zaawansowany.Form1.resources
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik_zaawansowany.Properties.Resources.resources
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.csproj.GenerateResource.cache
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.csproj.CoreCompileInputs.cache
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.exe
+D:\3 klasa\C# okienkowy\Notatnik zaawansowany\Notatnik zaawansowany\obj\Debug\Notatnik zaawansowany.pdb

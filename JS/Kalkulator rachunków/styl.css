@@ -1,0 +1,76 @@
+body{
+    margin: 10px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 20px;
+}
+.inputs{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.btns1{
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    transition: 1s;
+}
+.btns1:hover{
+    background-color: #333;
+}
+.inputs1{
+    background-color: #eee;
+    color: black;
+    border: 1px solid #eee;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+}
+table{
+    width: 100%;
+}
+.tr1{
+    position: relative;
+    top: 0;
+    padding: 0;
+    margin: 0;
+}
+.tr1 th{
+    background-color: #666;
+    color: white;
+    margin: 0;
+    width: 33%;
+    border: 2px solid darkgray;
+    padding: 10px;
+    text-align: left;
+}
+.tr2 td{
+    background-color: white;
+    color: black;
+    margin: 0;
+    width: 33%;
+    border: 2px solid lightgray;
+    padding: 10px;
+    text-align: left;
+}
+.btns2{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;    
+}
+h2{
+    text-align: center;
+    font-weight: normal;
+}
+#search{
+    width: 300px;
+}

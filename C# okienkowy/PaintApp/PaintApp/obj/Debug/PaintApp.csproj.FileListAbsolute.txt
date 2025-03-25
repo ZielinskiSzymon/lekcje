@@ -1,0 +1,21 @@
+C:\Users\danie\source\repos\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\danie\source\repos\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\danie\source\repos\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\danie\source\repos\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\danie\source\repos\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\danie\source\repos\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\danie\source\repos\PaintApp\PaintApp\obj\Debug\PaintApp.pdb
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+E:\3 klasa\C# okienkowy\PaintApp\PaintApp\obj\Debug\PaintApp.pdb

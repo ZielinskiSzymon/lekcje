@@ -1,0 +1,7 @@
+C:\Users\Programowanie\Documents\Szymon Zielinski\Aplikacje desktopowe i mobilne\Typy referencyjne\Typy referencyjne\bin\Debug\Typy referencyjne.exe.config
+C:\Users\Programowanie\Documents\Szymon Zielinski\Aplikacje desktopowe i mobilne\Typy referencyjne\Typy referencyjne\bin\Debug\Typy referencyjne.exe
+C:\Users\Programowanie\Documents\Szymon Zielinski\Aplikacje desktopowe i mobilne\Typy referencyjne\Typy referencyjne\bin\Debug\Typy referencyjne.pdb
+C:\Users\Programowanie\Documents\Szymon Zielinski\Aplikacje desktopowe i mobilne\Typy referencyjne\Typy referencyjne\obj\Debug\Typy referencyjne.csproj.AssemblyReference.cache
+C:\Users\Programowanie\Documents\Szymon Zielinski\Aplikacje desktopowe i mobilne\Typy referencyjne\Typy referencyjne\obj\Debug\Typy referencyjne.csproj.CoreCompileInputs.cache
+C:\Users\Programowanie\Documents\Szymon Zielinski\Aplikacje desktopowe i mobilne\Typy referencyjne\Typy referencyjne\obj\Debug\Typy referencyjne.exe
+C:\Users\Programowanie\Documents\Szymon Zielinski\Aplikacje desktopowe i mobilne\Typy referencyjne\Typy referencyjne\obj\Debug\Typy referencyjne.pdb

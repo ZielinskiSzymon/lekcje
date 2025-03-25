@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programowanie\\Documents\\Szymon Zielinski\\Aplikacje desktopowe i mobilne\\Typy referencyjne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DFBE89-A5AD-4107-A042-9554F35DBF0E}|Typy referencyjne\\Typy referencyjne.csproj|c:\\users\\programowanie\\documents\\szymon zielinski\\aplikacje desktopowe i mobilne\\typy referencyjne\\typy referencyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DFBE89-A5AD-4107-A042-9554F35DBF0E}|Typy referencyjne\\Typy referencyjne.csproj|solutionrelative:typy referencyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Programowanie\\Documents\\Szymon Zielinski\\Aplikacje desktopowe i mobilne\\Typy referencyjne\\Typy referencyjne\\Program.cs",
+              "RelativeDocumentMoniker": "Typy referencyjne\\Program.cs",
+              "ToolTip": "C:\\Users\\Programowanie\\Documents\\Szymon Zielinski\\Aplikacje desktopowe i mobilne\\Typy referencyjne\\Typy referencyjne\\Program.cs",
+              "RelativeToolTip": "Typy referencyjne\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:13:29.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

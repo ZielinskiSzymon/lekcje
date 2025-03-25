@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            background-color: lightblue;
+        }
+        hr{
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="wynik"></div>
+    <script>
+        let tablica = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+        
+        // join - łączy elementy tablicy w jeden string
+        let tekst = tablica.join(", ");
+        
+        document.write("Join: <br>");
+        document.write(tekst);
+        document.write("<hr>");
+        
+        
+        // split - dzieli string na tablicę
+        
+        let tablica2 = tekst.split(", ");
+
+        document.write("Split: <br>");
+        for (let i = 0; i < tablica2.length; i++) {
+            document.write(tablica2[i] + ", ");
+        }
+        document.write("<hr>");
+        
+        let tablica3 = ["Ala", "ma", "kota"];
+
+
+        //sort - sortuje elementy tablicy
+        
+        tablica2.sort();
+        document.write("Sort: <br>");
+
+        for (let i = 0; i < tablica2.length; i++) {
+            document.write(tablica2[i] + ", ");
+        }
+        document.write("<br><br>");
+        
+
+        let tablica4 = [1, 35,1, 3, 5, 7, 9, 11, 13, 15];
+        tablica4.sort();
+
+        document.write("Sortowanie liczb(nie działa): <br>");
+        for (let i = 0; i < tablica4.length; i++) {
+            document.write(tablica4[i] + ", ");
+        }
+        document.write("<br><br>");
+
+
+        // sortowanie liczb
+        tablica4.sort((a,b)=>a-b);
+
+        document.write("Sortowanie liczb: <br>");
+        for (let i = 0; i < tablica4.length; i++) {
+            document.write(tablica4[i] + ", ");
+        }
+        document.write("<br><br>");
+
+        // sortowanie liczb malejąco
+        
+        document.write("Sortowanie liczb malejąco: <br>");
+        tablica4.sort((a,b)=>b-a);
+        for (let i = 0; i < tablica4.length; i++) {
+            document.write(tablica4[i] + ", ");
+        }
+        document.write("<hr>");
+        
+
+        //reverse - odwraca kolejność elementów tablicy
+
+        document.write("Reverse: <br>");
+        tablica4.reverse();
+        for (let i = 0; i < tablica4.length; i++) {
+            document.write(tablica4[i] + ", ");
+        }
+        document.write("<hr>");
+
+
+        //shift - usuwa pierwszy element tablicy
+
+        let tablica10 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+        tablica10.shift();
+
+        document.write("Shift: <br>");
+        for (let i = 0; i < tablica10.length; i++) {
+            document.write(tablica10[i] + ", ");
+        }
+        document.write("<hr>");
+        
+        
+        //unshift - dodaje element na początek tablicy
+
+        let tablica11 = ["Ala", "ma", "kota","a","kot","ma","Ale"];
+
+        tablica11.unshift("Mała");
+
+        document.write("Unshift: <br>");
+        for (let i = 0; i < tablica11.length; i++) {
+            document.write(tablica11[i] + " ");
+        }
+        document.write("<hr>");
+
+
+        //concat - łączy dwie tablice w jedną
+
+        let tablica5 = [1, 2, 3];
+        let tablica6 = [4, 5, 6];
+
+        let tablica7 = tablica5.concat(tablica6);
+
+        document.write("Concat: <br>");
+
+        for (let i = 0; i < tablica7.length; i++) {
+            document.write(tablica7[i] + ", ");
+        }
+        document.write("<hr>");
+
+
+        //slice - wycina fragment tablicy
+
+        let tablica8 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+        let tablica9 = tablica8.slice(3, 7);
+
+        document.write("Slice: <br>");
+        for (let i = 0; i < tablica9.length; i++) {
+            document.write(tablica9[i] + ", ");
+        }
+        document.write("<hr>");
+
+
+        //splice - wstawia/usuwa elementy w tablicy
+
+        let tablica12 = ["Jabłko", "Gruszka", "Banan", "Pomarańcza", "Mandarynka", "Kiwi"];
+
+        tablica12.splice(1, 2, "Ananas", "Mango");
+
+        document.write("Splice: <br>");
+        for (let i = 0; i < tablica12.length; i++) {
+            document.write(tablica12[i] + ", ");
+        }
+        document.write("<hr>");
+
+
+        //map - tworzy nową tablicę z wynikami funkcji dla każdego elementu tablicy
+
+        let tablcia12 = [1,6,2,6];
+
+        let tablcia13 = tablcia12.map((x)=>x*2);
+
+        document.write("Map: <br>");
+        for (let i = 0; i < tablcia13.length; i++) {
+            document.write(tablcia13[i] + ", ");
+        }
+        document.write("<hr>");
+
+
+        //reduce - redukuje tablicę do jednej wartości
+
+        let tablica14 = [1, 2, 3, 4, 5];
+
+        let suma = tablica14.reduce((a,b)=>a+b);
+
+        document.write("Reduce: <br>");
+        document.write(suma);
+        document.write("<hr>");
+
+
+        //find - zwraca pierwszy element spełniający warunek
+
+        let tablica15 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+        let wynik = tablica15.find((x)=>x>5);
+
+        document.write("Find: <br>");
+        document.write(wynik);
+        document.write("<hr>");
+
+        
+        //ideksOf - zwraca indeks elementu w tablicy
+
+        let tablica16 = ["Mati", "Kasia", "Szymek","Milan"];
+
+        let wynik1 = tablica16.indexOf("Kasia");
+
+        document.write("IndexOf: <br>");
+        document.write(wynik1);
+        document.write("<hr>");
+ 
+
+        //includes - sprawdza czy tablica zawiera element
+
+        let tablica17 = ["Mati", "Kasia", "Szymek","Milan"];
+
+        let wynik2 = tablica16.includes("Mati");
+
+        document.write("Includes: <br>");
+        document.write(wynik2);
+        document.write("<hr>");
+
+
+        //every - sprawdza czy wszystkie elementy spełniają warunek
+
+        let tablica18 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+        let wynik3 = tablica17.every((x)=>x>5);
+
+        document.write("Every: <br>");
+        document.write(wynik3);
+        document.write("<hr>");
+
+
+        //some - sprawdza czy jakiś element spełnia warunek
+
+        let tablica19 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+        let wynik4 = tablica18.some((x)=>x>5);
+
+        document.write("Some: <br>");
+        document.write(wynik4);
+        document.write("<hr>");
+        
+
+        //flat - spłaszcza tablicę
+
+        let tablica20 = [1, 2, [3, 4], 5, 6, [7, 8, 9], 10];
+
+        let tablica21 = tablica20.flat();
+
+        document.write("Flat: <br>");
+        for (let i = 0; i < tablica21.length; i++) {
+            document.write(tablica21[i] + ", ");
+        }
+        document.write("<hr>");
+
+
+        //flatMap - spłaszcza tablicę i wykonuje funkcję na każdym elemencie
+
+        let tablica22 = [1, 2, 3, 4, [5,5,7], 6, 7, [2,6,1]];
+
+        let tablica23 = tablica22.flatMap((x)=> parseInt(x)*2);
+
+        document.write("FlatMap: <br>");
+        for (let i = 0; i < tablica23.length; i++) {
+            document.write(tablica23[i] + ", ");
+        }
+        document.write("<hr>");
+
+
+        let person = new Object();
+        
+        person["imie"] = "mati";
+        person["nazwisko"] = "kowalski";
+        person["wiek"] = 25;
+        person["sex"] = "Female"
+
+
+        document.write("Tablica asocjacyjna: <br>");
+
+        document.write(person.length)
+    </script>
+</body>
+</html>

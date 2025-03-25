@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="shopping"
+        android:background="#d503ff"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="what do you want to buy?"
+        android:layout_gravity="center"
+        android:background="#e252ff"
+        android:textSize="20dp"/>
+
+    <CheckBox
+        android:id="@+id/pizza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="pizza"/>
+    <CheckBox
+        android:id="@+id/burger"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="burger"/>
+    <CheckBox
+        android:id="@+id/salad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="pizza"/>
+
+
+
+</LinearLayout>

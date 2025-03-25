@@ -1,0 +1,11 @@
+E:\3 klasa\C# okienkowy\Figury\Figury\bin\Debug\Figury.exe.config
+E:\3 klasa\C# okienkowy\Figury\Figury\bin\Debug\Figury.exe
+E:\3 klasa\C# okienkowy\Figury\Figury\bin\Debug\Figury.pdb
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.Form1.resources
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.exe
+E:\3 klasa\C# okienkowy\Figury\Figury\obj\Debug\Figury.pdb

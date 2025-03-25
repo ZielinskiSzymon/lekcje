@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odliczanie do lekcji</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #wynik {
+            background-color: #eee;
+            border-radius: 20px;
+            height: 400px;
+            width: 500px;
+            box-shadow: 0 0 4px black;
+            font-size: 20px;
+            text-align: center;
+        }
+        #tekst {
+            position: relative;
+            top: 20%;
+        }
+        #czas {
+            font-size: 48px;
+            position: relative;
+            top: 40%;
+        }
+    </style>
+</head>
+<body>
+    <div id="wynik">
+        <span id="tekst">Do najbliższej przerwy zostało</span>
+        <div id="czas">5:00</div>
+    </div>
+
+    <script>
+        const harmonogram = [
+            { start: "07:15", koniec: "08:00" },
+            { start: "08:05", koniec: "08:50" },
+            { start: "09:00", koniec: "09:45" },
+            { start: "09:55", koniec: "10:40" },
+            { start: "10:55", koniec: "11:40" },
+            { start: "11:50", koniec: "12:35" },
+            { start: "12:45", koniec: "13:30" },
+            { start: "13:35", koniec: "14:20" },
+            { start: "14:25", koniec: "15:10" },
+            { start: "15:15", koniec: "16:00" },
+            { start: "16:05", koniec: "16:50" },
+            { start: "16:55", koniec: "17:40" },
+            { start: "17:45", koniec: "18:30" }
+        ];
+
+        function pobierzAktualnyCzas() {
+            const teraz = new Date();
+            return teraz.getHours() * 60 + teraz.getMinutes();
+        }
+
+        function obliczCzasDoNajblizszejPrzerwy() {
+            const czas = pobierzAktualnyCzas();
+            for (let i = 0; i < harmonogram.length; i++) {
+                const startMinuty = parsujCzas(harmonogram[i].start);
+                const koniecMinuty = parsujCzas(harmonogram[i].koniec);
+                if (czas >= startMinuty && czas <= koniecMinuty) {
+                    return koniecMinuty - czas;
+                }
+            }
+            return -1;
+        }
+
+        function obliczCzasDoNajblizszejLekcji() {
+            const czas = pobierzAktualnyCzas();
+            for (let i = 0; i < harmonogram.length; i++) {
+                const startMinuty = parsujCzas(harmonogram[i].start);
+                if (czas < startMinuty) {
+                    return startMinuty - czas;
+                }
+            }
+            return -1;
+        }
+
+        function parsujCzas(czasStr) {
+            const [godziny, minuty] = czasStr.split(':').map(Number);
+            return godziny * 60 + minuty;
+        }
+
+        function formatujCzas(czas) {
+            const godziny = Math.floor(czas / 60);
+            const minuty = czas % 60;
+            return `${String(godziny).padStart(2, '0')}:${String(minuty).padStart(2, '0')}`;
+        }
+
+        function odswiezCzas() {
+            const czasDoPrzerwy = obliczCzasDoNajblizszejPrzerwy();
+            const czasDoLekcji = obliczCzasDoNajblizszejLekcji();
+            const tekst = document.getElementById("tekst");
+            const czas = document.getElementById("czas");
+
+            if (czasDoPrzerwy >= 0) {
+                tekst.textContent = "Do najbliższej przerwy zostało:";
+                czas.textContent = formatujCzas(czasDoPrzerwy);
+            } else if (czasDoLekcji >= 0) {
+                tekst.textContent = "Do najbliższej lekcji zostało:";
+                czas.textContent = formatujCzas(czasDoLekcji);
+            } else {
+                tekst.textContent = "Brak więcej zajęć dzisiaj.";
+                czas.textContent = "";
+            }
+        }
+
+        function zsynchronizujOdswiezanie() {
+            const czas = new Date();
+            const sekundy = czas.getSeconds();
+            const milisekundy = czas.getMilliseconds();
+            const czasDoNastepnejPelnejMinuty = 60 - sekundy + (1000 - milisekundy) / 1000;
+            setTimeout(() => {
+                odswiezCzas();
+                setInterval(odswiezCzas, 1000 * 60);
+            }, czasDoNastepnejPelnejMinuty * 1000);
+        }
+
+        odswiezCzas();
+        zsynchronizujOdswiezanie();
+    </script>
+</body>
+</html>

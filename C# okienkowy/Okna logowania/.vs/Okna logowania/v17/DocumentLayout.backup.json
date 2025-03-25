@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|d:\\3 klasa\\c# okienkowy\\okna logowania\\okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|D:\\3 klasa\\C# okienkowy\\Okna logowania\\okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|D:\\3 klasa\\C# okienkowy\\Okna logowania\\okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|D:\\3 klasa\\C# okienkowy\\Okna logowania\\okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69578412-4B1A-423D-909E-86C28DF6C6BF}|Okna logowania\\Okna logowania.csproj|solutionrelative:okna logowania\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rejestracja.cs",
+              "DocumentMoniker": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Rejestracja.cs",
+              "ToolTip": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs",
+              "RelativeToolTip": "Okna logowania\\Rejestracja.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:46:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logowanie.cs",
+              "DocumentMoniker": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Logowanie.cs",
+              "ToolTip": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs",
+              "RelativeToolTip": "Okna logowania\\Logowanie.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:46:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rejestracja.cs [Projekt]",
+              "DocumentMoniker": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Rejestracja.cs",
+              "ToolTip": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Rejestracja.cs [Projekt]",
+              "RelativeToolTip": "Okna logowania\\Rejestracja.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:58:16.56Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logowanie.cs [Projekt]",
+              "DocumentMoniker": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs",
+              "RelativeDocumentMoniker": "Okna logowania\\Logowanie.cs",
+              "ToolTip": "D:\\3 klasa\\C# okienkowy\\Okna logowania\\Okna logowania\\Logowanie.cs [Projekt]",
+              "RelativeToolTip": "Okna logowania\\Logowanie.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:55:28.067Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

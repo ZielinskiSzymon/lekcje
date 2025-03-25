@@ -1,0 +1,11 @@
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\bin\Debug\Egzamin aplikacja dekstopowa.exe.config
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\bin\Debug\Egzamin aplikacja dekstopowa.exe
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\bin\Debug\Egzamin aplikacja dekstopowa.pdb
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin aplikacja dekstopowa.csproj.AssemblyReference.cache
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin aplikacja dekstopowa.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin_aplikacja_dekstopowa.Form1.resources
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin_aplikacja_dekstopowa.Properties.Resources.resources
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin aplikacja dekstopowa.csproj.GenerateResource.cache
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin aplikacja dekstopowa.csproj.CoreCompileInputs.cache
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin aplikacja dekstopowa.exe
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin aplikacja dekstopowa\Egzamin aplikacja dekstopowa\obj\Debug\Egzamin aplikacja dekstopowa.pdb

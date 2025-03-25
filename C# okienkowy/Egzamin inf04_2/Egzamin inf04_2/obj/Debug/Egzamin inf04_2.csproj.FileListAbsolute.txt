@@ -1,0 +1,8 @@
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\obj\Debug\Egzamin inf04_2.csproj.AssemblyReference.cache
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\obj\Debug\Egzamin inf04_2.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\obj\Debug\Egzamin inf04_2.csproj.CoreCompileInputs.cache
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\bin\Debug\Egzamin inf04_2.exe.config
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\bin\Debug\Egzamin inf04_2.exe
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\bin\Debug\Egzamin inf04_2.pdb
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\obj\Debug\Egzamin inf04_2.exe
+E:\3 klasa\tworzenie aplikacji dekstopowych\Egzamin inf04_2\Egzamin inf04_2\obj\Debug\Egzamin inf04_2.pdb

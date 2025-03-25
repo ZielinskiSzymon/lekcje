@@ -1,0 +1,11 @@
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\bin\Debug\Suwaczki.exe.config
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\bin\Debug\Suwaczki.exe
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\bin\Debug\Suwaczki.pdb
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.Form1.resources
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.exe
+E:\3 klasa\C# okienkowy\Suwaczki\Suwaczki\obj\Debug\Suwaczki.pdb

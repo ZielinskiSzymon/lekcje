@@ -1,0 +1,10 @@
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\bin\Debug\zadanie.exe.config
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\bin\Debug\zadanie.exe
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\bin\Debug\zadanie.pdb
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\obj\Debug\zadanie.csproj.AssemblyReference.cache
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\obj\Debug\zadanie.Form1.resources
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\obj\Debug\zadanie.Properties.Resources.resources
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\obj\Debug\zadanie.csproj.GenerateResource.cache
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\obj\Debug\zadanie.csproj.CoreCompileInputs.cache
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\obj\Debug\zadanie.exe
+D:\szkola\M_JADCZAK\C#\12.06\zadanie\obj\Debug\zadanie.pdb

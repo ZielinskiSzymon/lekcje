@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    /* background-color: #e0e0e0; */
+}
+#container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+header h1{
+    font-size: 40px;
+    margin: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 4px;
+    color: royalblue;
+}
+#numbers{
+    margin: 0 0 50px 0;
+    width: 504px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.box{
+    transition: 0.4s;
+    width: 50px;
+    height: 50px;
+    background-color: #a0a0a0;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+.box:hover{
+    color: #f0f0f0;
+    scale: 1.05;
+}
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    border-radius: 0px;
+    width: 200px;
+    height: 40px;
+    position: relative;
+    transition: 0.3s;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.button::before, .button::after {
+    content: "";
+    display: block;
+    position: absolute;
+    border: 1px solid #000000;
+    width: 100%;
+    height: 100%;
+    transition: .3s;
+}
+
+.button::before {
+    width: 200px;
+    height: 40px;
+}
+
+.button::after {
+    width: 210px;
+    height: 50px;
+}
+
+.button:hover::before, .button:hover::after {
+    width: 200px;
+    height: 40px;
+}
+.selected{
+    background-color: #ffee00;
+    color: #000000;
+}
+
+.box2{
+    transition: 0.4s;
+    width: 50px;
+    height: 50px;
+    background-color: #a0a0a0;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+#wylosowaneLiczby{
+    margin: 0 0 50px 0;
+    width: 504px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+#wynik{
+    text-align: center;
+}
+.h1{
+    display: none;
+}
+#twojeLiczby{
+    margin: 0 0 50px 0;
+    width: 504px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+h2{
+    font-size: 30px;
+    margin: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+
+}

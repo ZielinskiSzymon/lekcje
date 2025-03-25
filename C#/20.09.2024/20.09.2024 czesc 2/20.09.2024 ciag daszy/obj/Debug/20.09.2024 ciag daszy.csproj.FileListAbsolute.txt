@@ -1,0 +1,7 @@
+C:\Users\Programowanie\source\repos\20.09.2024 ciag daszy\20.09.2024 ciag daszy\bin\Debug\20.09.2024 ciag daszy.exe.config
+C:\Users\Programowanie\source\repos\20.09.2024 ciag daszy\20.09.2024 ciag daszy\bin\Debug\20.09.2024 ciag daszy.exe
+C:\Users\Programowanie\source\repos\20.09.2024 ciag daszy\20.09.2024 ciag daszy\bin\Debug\20.09.2024 ciag daszy.pdb
+C:\Users\Programowanie\source\repos\20.09.2024 ciag daszy\20.09.2024 ciag daszy\obj\Debug\20.09.2024 ciag daszy.csproj.AssemblyReference.cache
+C:\Users\Programowanie\source\repos\20.09.2024 ciag daszy\20.09.2024 ciag daszy\obj\Debug\20.09.2024 ciag daszy.csproj.CoreCompileInputs.cache
+C:\Users\Programowanie\source\repos\20.09.2024 ciag daszy\20.09.2024 ciag daszy\obj\Debug\20.09.2024 ciag daszy.exe
+C:\Users\Programowanie\source\repos\20.09.2024 ciag daszy\20.09.2024 ciag daszy\obj\Debug\20.09.2024 ciag daszy.pdb

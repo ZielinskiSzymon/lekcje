@@ -1,0 +1,14 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\bin\Debug\papier kamień nożyce.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\bin\Debug\papier kamień nożyce.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\bin\Debug\papier kamień nożyce.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier kamień nożyce.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier kamień nożyce.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier_kamień_nożyce.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier_kamień_nożyce.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier kamień nożyce.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier kamień nożyce.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier kamień nożyce.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\obj\Debug\papier kamień nożyce.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\bin\Debug\Zdjecia\1zdj.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\bin\Debug\Zdjecia\2zdj.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Dzis\papier kamień nożyce\papier kamień nożyce\bin\Debug\Zdjecia\3zdj.png

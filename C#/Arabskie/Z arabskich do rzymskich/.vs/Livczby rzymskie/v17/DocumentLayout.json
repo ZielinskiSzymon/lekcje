@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 klasa\\C#\\Livczby rzymskie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680F204F-C7B8-4F4E-8EF7-A03311FC2C41}|Livczby rzymskie\\Livczby rzymskie.csproj|d:\\3 klasa\\c#\\livczby rzymskie\\livczby rzymskie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680F204F-C7B8-4F4E-8EF7-A03311FC2C41}|Livczby rzymskie\\Livczby rzymskie.csproj|solutionrelative:livczby rzymskie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3 klasa\\C#\\Livczby rzymskie\\Livczby rzymskie\\Program.cs",
+              "RelativeDocumentMoniker": "Livczby rzymskie\\Program.cs",
+              "ToolTip": "D:\\3 klasa\\C#\\Livczby rzymskie\\Livczby rzymskie\\Program.cs",
+              "RelativeToolTip": "Livczby rzymskie\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:15:06.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra_w_kostki.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra_z_wiedźmina.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Gra z wiedźmina.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Gra z wiedźmina.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Gra z wiedźmina.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.pdb
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Images\dice1.png
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Images\dice2.png
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Images\dice3.png
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Images\dice4.png
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Images\dice5.png
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Images\dice6.png
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Gra z wiedźmina.exe.config
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Gra z wiedźmina.exe
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\bin\Debug\Gra z wiedźmina.pdb
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra_w_kostki.Form1.resources
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra_z_wiedźmina.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.exe
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra z wiedźmina.pdb
+E:\3 klasa\C# okienkowy\Gra z wiedźmina\Gra z wiedźmina\obj\Debug\Gra_z_wiedźmina.Form2.resources

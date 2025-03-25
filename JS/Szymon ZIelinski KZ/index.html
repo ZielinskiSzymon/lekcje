@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Kalkulator kosztow 18. urodzin</h1>
+
+    Liczba gosci: <br>
+    <input type="number" name="goscie" id="goscie" placeholder="Podaj liczbe gosci"><br>
+
+    Liczba gości korzystajacych z transportu (100zł/os): <br>
+    <input type="number" name="transport" id="transport" placeholder="Podaj liczbę gości korzystajacych z transportu"><br><br>
+
+    Standard imprezy: <br>
+    
+    <input type="radio" name="standard" class="standard" value="150" data-name="Standard"> Podstawowy (150 zł za osobę) <br>
+    <input type="radio" name="standard" class="standard" value="250" data-name="Premium"> Premium (250 zł za osobę) <br>
+    <input type="radio" name="standard" class="standard" value="400" data-name="VIP"> VIP (400 zł za osobę) <br><br>
+
+    Dodatkwoe opcje: <br>
+
+    <input type="checkbox" name="dod" class="dod" value="1000" data-name="DJ"> DJ (1000zł) <br>
+    <input type="checkbox" name="dod" class="dod" value="1500" data-name="Fotograf"> Fotograf (1500zł) <br>
+    <input type="checkbox" name="dod" class="dod" value="800" data-name="Dekoracje"> Dekoracje (800zł) <br>
+    <input type="checkbox" name="dod" class="dod" value="1200" data-name="Barman"> Barman (1200zł) <br>
+    <input type="checkbox" name="dod" class="dod" value="2000" data-name="Pokazy fajerwerkow"> Pokazy fajerwerkow (2000zł) <br><br>
+
+    <button id="btn">Oblicz ksozty</button>
+
+    <div id="wynik"></div>
+
+    <script>
+        let btn= document.querySelector("#btn");
+
+        btn.addEventListener("click", ()=>{
+            let liczbaGosci = document.querySelector("#goscie").value;
+            let liczbaTransportu = document.querySelector("#transport").value;
+
+            let wynik = document.querySelector("#wynik");
+            wynik.textContent = "";
+
+            let standard = document.querySelectorAll(".standard");
+            let dodatki = document.querySelectorAll(".dod");
+
+            let kosztCalkowity=0;
+
+            // koszty za osobe
+            if(liczbaGosci > 0){
+                for(let i = 0; i < standard.length;i++){
+                    if(standard[i].checked){
+                        wynik.innerHTML += "<b>Koszt na osobę ("+liczbaGosci+" osób):</b> " + parseInt(standard[i].value) * liczbaGosci + " zł";
+                        kosztCalkowity += parseInt(standard[i].value) * liczbaGosci;
+                    }
+                }
+
+                // Koszty transportu
+                if(liczbaTransportu > 0){
+                    wynik.innerHTML += "<br><b>Koszt transportu ("+liczbaTransportu+" korzystajacych):</b> " + liczbaTransportu * 100 + " zł";
+
+                    kosztCalkowity += liczbaTransportu * 100;
+                }
+                else{
+                    wynik.innerHTML += "<br><b>Nikt nie orzysta z transportu</b>"
+                }
+                
+                let temp2= "Nie wybrano dodatkowych opcji"
+                let ileWybrano=0;
+
+                //Dodatkowe opcje
+                wynik.innerHTML += "<br><b>Dodatkowe opcje: </b>";
+                
+                    for(let i = 0; i < dodatki.length;i++){
+                        if(dodatki[i].checked){
+                            wynik.innerHTML += dodatki[i].getAttribute("data-name") +" ("+ dodatki[i].value+"), ";
+                            
+                            kosztCalkowity += parseInt(dodatki[i].value);
+                            ileWybrano++;
+                        }
+
+                    }
+                
+                    if(ileWybrano==0){
+                        wynik.innerHTML += temp2;
+                    }
+
+
+                
+                wynik.innerHTML += "<br><b> Całkowity koszt: </b>"+kosztCalkowity+" zł";
+            }else wynik.innerHTML = "<b>Nie podano liczby gosci</b>"
+        })
+    </script>
+</body>
+</html>

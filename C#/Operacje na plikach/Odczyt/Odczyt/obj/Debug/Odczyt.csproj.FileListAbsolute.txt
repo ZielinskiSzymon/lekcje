@@ -1,0 +1,7 @@
+D:\3 klasa\C#\Operacje na plikach\Odczyt\Odczyt\bin\Debug\Odczyt.exe.config
+D:\3 klasa\C#\Operacje na plikach\Odczyt\Odczyt\bin\Debug\Odczyt.exe
+D:\3 klasa\C#\Operacje na plikach\Odczyt\Odczyt\bin\Debug\Odczyt.pdb
+D:\3 klasa\C#\Operacje na plikach\Odczyt\Odczyt\obj\Debug\Odczyt.csproj.AssemblyReference.cache
+D:\3 klasa\C#\Operacje na plikach\Odczyt\Odczyt\obj\Debug\Odczyt.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\Operacje na plikach\Odczyt\Odczyt\obj\Debug\Odczyt.exe
+D:\3 klasa\C#\Operacje na plikach\Odczyt\Odczyt\obj\Debug\Odczyt.pdb

@@ -1,0 +1,17 @@
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Images\dice1.png
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Images\dice2.png
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Images\dice3.png
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Images\dice4.png
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Images\dice5.png
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Images\dice6.png
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Gra w kostki.exe.config
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Gra w kostki.exe
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\bin\Debug\Gra w kostki.pdb
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra w kostki.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra w kostki.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra_w_kostki.Form1.resources
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra_w_kostki.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra w kostki.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra w kostki.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra w kostki.exe
+E:\3 klasa\C# okienkowy\Gra w kostki\Gra w kostki\obj\Debug\Gra w kostki.pdb

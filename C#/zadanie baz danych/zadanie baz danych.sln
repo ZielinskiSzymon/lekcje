@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie baz danych", "zadanie baz danych\zadanie baz danych.csproj", "{9C2D1310-F730-4D2B-9B5A-7479DAA0B900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2D1310-F730-4D2B-9B5A-7479DAA0B900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2D1310-F730-4D2B-9B5A-7479DAA0B900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2D1310-F730-4D2B-9B5A-7479DAA0B900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2D1310-F730-4D2B-9B5A-7479DAA0B900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F3DAAA-C009-4AF3-B936-5E165A2DD219}
+	EndGlobalSection
+EndGlobal

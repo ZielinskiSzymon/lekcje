@@ -1,0 +1,7 @@
+D:\3 klasa\C#\Interfaejsy\Interfaejsy\bin\Debug\Interfaejsy.exe.config
+D:\3 klasa\C#\Interfaejsy\Interfaejsy\bin\Debug\Interfaejsy.exe
+D:\3 klasa\C#\Interfaejsy\Interfaejsy\bin\Debug\Interfaejsy.pdb
+D:\3 klasa\C#\Interfaejsy\Interfaejsy\obj\Debug\Interfaejsy.csproj.AssemblyReference.cache
+D:\3 klasa\C#\Interfaejsy\Interfaejsy\obj\Debug\Interfaejsy.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\Interfaejsy\Interfaejsy\obj\Debug\Interfaejsy.exe
+D:\3 klasa\C#\Interfaejsy\Interfaejsy\obj\Debug\Interfaejsy.pdb

@@ -1,0 +1,8 @@
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\bin\Debug\Plan obecnosci.exe.config
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\bin\Debug\Plan obecnosci.exe
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\bin\Debug\Plan obecnosci.pdb
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\obj\Debug\Plan obecnosci.csproj.AssemblyReference.cache
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\obj\Debug\Plan obecnosci.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\obj\Debug\Plan obecnosci.csproj.CoreCompileInputs.cache
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\obj\Debug\Plan obecnosci.exe
+E:\3 klasa\C#\Plan obecnosci\Plan obecnosci\obj\Debug\Plan obecnosci.pdb

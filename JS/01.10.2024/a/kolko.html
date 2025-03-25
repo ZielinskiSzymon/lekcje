@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            padding: 0;
+            background-color: lightblue;
+            display: inline-block;
+            border: 1px solid black;
+            box-shadow: 0 0 4px black;
+            transition: 0.5s ease;
+            text-align: center;
+            line-height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box" data-index="1"></div>
+    <div class="box" data-index="2"></div>
+    <div class="box" data-index="3"></div><br>
+    <div class="box" data-index="4"></div>
+    <div class="box" data-index="5"></div>
+    <div class="box" data-index="6"></div><br>
+    <div class="box" data-index="7"></div>
+    <div class="box" data-index="8"></div>
+    <div class="box" data-index="9"></div>
+
+    <br>
+    <br>
+    <div id="wynik"></div>
+    <script>
+        let boxes = document.querySelectorAll(".box");
+        let Player = "X";
+        let wynik = document.querySelector("#wynik")
+
+        boxes.forEach(e => {
+            e.addEventListener('click', () => {
+                if (e.textContent == "") {
+                    e.textContent = Player;
+                    if (checkWinner()) {
+                        wynik.textContent = "Wygrał "+Player;
+                        resetGame();
+                    } else if (isDraw()) {
+                        wynik.textContent = "Remis";
+                        resetGame();
+                    } else {
+                        Player = Player == "X" ? "O" : "X";
+                    }
+                }
+            });
+        });
+
+
+        function checkWinner() {
+            const winPatterns = [
+                [0, 1, 2], [3, 4, 5], [6, 7, 8], 
+                [0, 3, 6], [1, 4, 7], [2, 5, 8], 
+                [0, 4, 8], [2, 4, 6]             
+            ];
+            return winPatterns.some(pattern => {
+                return pattern.every(index => {
+                    return boxes[index].textContent == Player;
+                });
+            });
+        }
+
+
+        function resetGame() {
+            boxes.forEach(box => box.textContent = "");
+            Player = "X";
+        }
+    </script>
+</body>
+</html>

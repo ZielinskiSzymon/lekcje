@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        const students = [
+        {
+            frstName: 'Jan',
+            lastName: 'Kowalski',
+            age: 20,
+        },
+        {
+            frstName: 'Anna',
+            lastName: 'Nowak',
+            age: 19,
+        },
+        {
+            frstName: 'Piotr',
+            lastName: 'Kowalczyk',
+            age: 21,
+        },
+        {
+            frstName: 'Katarzyna',
+            lastName: 'Wójcik',
+            age: 22,
+        },
+        {
+            frstName: 'Michał',
+            lastName: 'Lewandowski',
+            age: 23,
+        },
+        ]
+
+        function showStudents(students) {
+            students.forEach(student => {
+                console.log(`Imię: ${student.frstName}, Nazwisko: ${student.lastName}, Wiek: ${student.age}`);
+            });
+        }
+
+        showStudents(students);
+    </script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+E:\3 klasa\C#\Pliki\Pliki\obj\Debug\Pliki.csproj.AssemblyReference.cache
+E:\3 klasa\C#\Pliki\Pliki\obj\Debug\Pliki.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C#\Pliki\Pliki\obj\Debug\Pliki.csproj.CoreCompileInputs.cache
+E:\3 klasa\C#\Pliki\Pliki\bin\Debug\Pliki.exe.config
+E:\3 klasa\C#\Pliki\Pliki\bin\Debug\Pliki.exe
+E:\3 klasa\C#\Pliki\Pliki\bin\Debug\Pliki.pdb
+E:\3 klasa\C#\Pliki\Pliki\obj\Debug\Pliki.exe
+E:\3 klasa\C#\Pliki\Pliki\obj\Debug\Pliki.pdb

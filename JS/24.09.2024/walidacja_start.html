@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator kosztów</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+        }
+        .radio-group, .checkbox-group {
+            margin-top: 10px;
+        }
+        .result {
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+        .error {
+            color: red;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Kalkulator kosztów</h1>
+
+    <form id="weddingForm">
+        <!-- Liczba produktów -->
+        <div class="form-group">
+            <label for="product">Podaj liczbę pojazdów:</label>
+            <input type="number" id="product" min="0" placeholder="Podaj liczbę sztuk">
+            <div class="error" id="productError"></div>
+        </div>
+
+        <!-- Wybór typu produktu (pola radio) -->
+        <div class="form-group">
+            <label>Standard pojazdu:</label>
+            <div class="radio-group">
+                <input type="radio" name="standard" value="500" id="standard-basic">
+                <label for="standard-basic">Podstawowy (500000 zł za sztukę)</label><br>
+                <input type="radio" name="standard" value="700" id="standard-premium">
+                <label for="standard-premium">Premium (70000 zł za sztukę)</label><br>
+                <input type="radio" name="standard" value="1000" id="standard-deluxe">
+                <label for="standard-deluxe">Deluxe (100000 zł za sztukę)</label>
+            </div>
+            <div class="error" id="standardError"></div>
+        </div>
+
+        <!-- Przycisk obliczenia kosztów -->
+        <div class="form-group">
+            <button type="button" id="calculateButton">Oblicz koszty</button>
+        </div>
+
+        <!-- Wynik -->
+        <div class="result" id="detailedCost">
+            <!-- Wyniki zostaną tutaj wyświetlone -->
+        </div>
+    </form>
+
+    <script>
+        function validationForm(){
+            let isValid = true;
+
+            const product = parseInt(document.querySelector("#product").value)
+            const standard = document.querySelector("input[name = 'standard']:cheched").value
+
+            document.getElementById("productError").textContent = ""
+            document.getElementById("standardError").textContent = ""
+
+            if(product === ''||parseInt(product) <= 0){
+                document.getElementById("ProductError").textContent = "Prosze podac liczbe produktow wieksza od 0"
+                isValid = false;
+            }
+
+            if(!standard){
+                document.getElementById("productError").textContent = "Prosze wybrac standard produktu"
+                isValid = false;
+            }
+
+            return isValid
+        }    
+
+
+        function calculateCost(){
+            if(!validationForm)
+                return
+
+            const product = document.querySelector("#product").value
+            const standard = document.querySelector("input[name = 'standard']:cheched").value
+
+            const productCost = product * standard;
+
+            const textResult = `<strong> Całkowity koszt </strong> ${productCost}`
+
+            focus.getElementById("detailedCost").innerHTML = textResult
+        }
+        document.getElementById("calculateButton").addEventListener("click", calculateCost);
+    </script>
+
+</body>
+</html>

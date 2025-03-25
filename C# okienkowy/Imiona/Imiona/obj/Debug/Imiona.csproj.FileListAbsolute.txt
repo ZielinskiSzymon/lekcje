@@ -1,0 +1,10 @@
+D:\3 klasa\C# okienkowy\Imiona\Imiona\bin\Debug\Imiona.exe.config
+D:\3 klasa\C# okienkowy\Imiona\Imiona\bin\Debug\Imiona.exe
+D:\3 klasa\C# okienkowy\Imiona\Imiona\bin\Debug\Imiona.pdb
+D:\3 klasa\C# okienkowy\Imiona\Imiona\obj\Debug\Imiona.csproj.AssemblyReference.cache
+D:\3 klasa\C# okienkowy\Imiona\Imiona\obj\Debug\Imiona.Form1.resources
+D:\3 klasa\C# okienkowy\Imiona\Imiona\obj\Debug\Imiona.Properties.Resources.resources
+D:\3 klasa\C# okienkowy\Imiona\Imiona\obj\Debug\Imiona.csproj.GenerateResource.cache
+D:\3 klasa\C# okienkowy\Imiona\Imiona\obj\Debug\Imiona.csproj.CoreCompileInputs.cache
+D:\3 klasa\C# okienkowy\Imiona\Imiona\obj\Debug\Imiona.exe
+D:\3 klasa\C# okienkowy\Imiona\Imiona\obj\Debug\Imiona.pdb

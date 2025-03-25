@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Zadanie 1</h1>
+    <script>
+        const prices = [29.99, 9.99, 4.99, 19.99]
+        let suma=0;
+
+        for(let i=0; i<prices.length; i++){
+            suma+=prices[i];
+        }
+
+        document.write(`Suma cen: ${suma} <br>`);
+
+        document.write(`Średnia cen: ${suma/prices.length}`);   
+    </script>
+
+    <h1>Zadanie 2</h1>
+    
+    <script>
+        const purchases = [
+        { item: 'laptop', price: 899 }, 
+        { item: 'phone', price: 699 }, 
+        { item: 'tablet', price: 299 }
+        ]
+        
+        
+        let suma2=0;
+        
+        for(let i=0; i<purchases.length; i++){
+            suma2+=purchases[i].price;
+        }
+        
+        document.write(`Suma cen: ${suma2} <br>`);
+    </script>
+
+    <h1>Zadanie 3</h1>
+
+    <script>
+        const numbers = [3, 8, 12, 5, 7]
+
+        const wynik1 = numbers.some(num =>  num > 10);
+
+        document.write(wynik1)
+    </script>
+
+    <h1>Zadanie 4</h1>
+
+    <script>
+        const numbers1 = [2, 4, 6, 8] 
+
+        const winik2 = numbers1.every(num => num % 2 == 0);
+
+        document.write(winik2)
+    </script>
+    
+    <h1>Zadanie 5</h1>
+
+    <script>
+
+        const prices1 = [29.99, 9.99, 4.99, 19.99];
+
+        let promo = prices1.map(price => (price * 0.9).toFixed(2));
+
+        document.write(promo);
+
+    </script>
+    
+    <h1>Zadanie 6</h1>
+    <script>
+        const prices2 = [29.99, 9.99, 4.99, 19.99];
+
+        let wynik5 = prices2.filter(price => price < 10);
+
+        document.write(wynik5);
+    </script>
+
+    <h1>Zadanie 7</h1>
+
+    <script>
+        const students = [{ name: 'Ola', score: 85 }, { name: 'Tom', score: 50 }, { name: 'Anna', score: 95 }];
+
+        let wynik6 = students.find(student => student.score > 80);
+
+        document.write(wynik6.name);
+    </script>
+
+    <h1>Zadanie 8</h1>
+
+    <script>
+        const numbers3 = [4, 9, 16, 25];
+
+        let wynik7 = numbers3.find(num => num > 10);
+
+        document.write(wynik7);
+    </script>
+
+    <h1>Zadanie 9</h1>
+
+    <script>
+        const users = [{ name: 'Alice', age: 22 }, { name: 'Bob', age: 29 }, { name: 'Charlie', age: 21 }];
+
+        let wynik8 = users.find(user => user.age < 25);
+
+        document.write(wynik8.name);
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1 pare okien.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1 pare okien.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1_pare_okien.Form1.resources
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1_pare_okien.Form2.resources
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1_pare_okien.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1 pare okien.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1 pare okien.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\bin\Debug\Zadanie1 pare okien.exe.config
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\bin\Debug\Zadanie1 pare okien.exe
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\bin\Debug\Zadanie1 pare okien.pdb
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1 pare okien.exe
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1 pare okien.pdb
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1_pare_okien.Form3.resources
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1_pare_okien.Form4.resources
+E:\3 klasa\C# okienkowy\Zadanie1 pare okien\Zadanie1 pare okien\obj\Debug\Zadanie1_pare_okien.Form5.resources

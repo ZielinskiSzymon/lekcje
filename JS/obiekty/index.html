@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+        let osoba ={
+            imie : "Jan",
+            nazwisko : "Pędzel",
+            wiek : 12,
+            przedstawSie:function(){
+                alert(`Nazywam się ${this.imie} ${this.nazwisko}, mam ${this.wiek} lat.`)
+            }
+        }
+        //osoba.przedstawSie()
+
+        //console.log(osoba.imie)
+        //console.log(osoba.nazwisko)
+        //console.log(osoba.wiek)
+
+
+        //osoba.wiek = 30
+        //osoba.adres = "Brzesko"
+
+        //console.log(osoba.wiek)
+        //console.log(osoba.adres)
+
+        function osoba(imie,nazwisko,wiek){
+            this.imie = imie
+            this.nazwisko = nazwisko
+            this.wiek = wiek
+        }
+        for(let arg in osoba){
+            document.write (`${arg} : ${osoba[arg]} <br>`);
+        }
+        
+        
+
+    </script>
+</body>
+</html>

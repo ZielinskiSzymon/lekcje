@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stopwatch</title>
+    <style>
+        #czas { font-size: 2em; margin-bottom: 20px; }
+
+        #wznow{display: none;}
+        body{
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div id="czas">00:00:00</div><br>
+    <button id="start">Start</button>
+    <button id="stop">Stop</button>
+    <button id="wznow">Wznów</button>
+    <button id="reset">Reset</button>
+
+    <script>
+        let godziny = 0, minuty = 0, sekundy = 0;
+        let interval;
+        let acces = false;
+
+        let stopD = document.querySelector("#stop")
+        let wznowD = document.querySelector("#wznow")
+
+        function updateczas() {
+            sekundy++;
+            if (sekundy === 60) {
+                sekundy = 0;
+                minutes++;
+                if (minuty === 60) {
+                    minuty = 0;
+                    godziny++;
+                }
+            }
+            document.getElementById('czas').textContent =
+                (godziny < 10 ? "0" + godziny : godziny) + ":" +
+                (minuty < 10 ? "0" + minuty : minutes) + ":" +
+                (sekundy < 10 ? "0" + sekundy : sekundy);
+        }
+
+        document.getElementById('start').addEventListener('click', () => {
+            if (!acces) {
+                interval = setInterval(updateczas, 1000);
+                acces = true;
+            }
+        });
+
+        document.getElementById('stop').addEventListener('click', () => {
+            clearInterval(interval);
+            acces = false;
+            stopD.style.display="none"
+            wznowD.style.display="inline-block"
+            
+            
+        });
+        
+        document.getElementById('wznow').addEventListener('click', () => {
+            if (!acces) {
+                interval = setInterval(updateczas, 1000);
+                acces = true;
+                wznowD.style.display="none"
+                stopD.style.display="inline-block"
+            }
+        });
+        document.getElementById("reset").addEventListener("click", () => {
+            sekundy=0;
+            minuty=0;
+            godziny=0;            
+        })
+    </script>
+</body>
+</html>

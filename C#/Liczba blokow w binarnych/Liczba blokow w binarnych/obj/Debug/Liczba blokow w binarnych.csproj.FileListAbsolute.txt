@@ -1,0 +1,14 @@
+D:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\bin\Debug\Liczba blokow w binarnych.exe.config
+D:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\bin\Debug\Liczba blokow w binarnych.exe
+D:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\bin\Debug\Liczba blokow w binarnych.pdb
+D:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.csproj.AssemblyReference.cache
+D:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.exe
+D:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.pdb
+E:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\bin\Debug\Liczba blokow w binarnych.exe.config
+E:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\bin\Debug\Liczba blokow w binarnych.exe
+E:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\bin\Debug\Liczba blokow w binarnych.pdb
+E:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.csproj.AssemblyReference.cache
+E:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.csproj.CoreCompileInputs.cache
+E:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.exe
+E:\3 klasa\C#\Liczba blokow w binarnych\Liczba blokow w binarnych\obj\Debug\Liczba blokow w binarnych.pdb

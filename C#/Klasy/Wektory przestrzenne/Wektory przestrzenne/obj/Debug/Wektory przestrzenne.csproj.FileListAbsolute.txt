@@ -1,0 +1,7 @@
+D:\3 klasa\Aplikacje desktopowe i mobilne\Klasy\Wektory przestrzenne\Wektory przestrzenne\bin\Debug\Wektory przestrzenne.exe.config
+D:\3 klasa\Aplikacje desktopowe i mobilne\Klasy\Wektory przestrzenne\Wektory przestrzenne\bin\Debug\Wektory przestrzenne.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\Klasy\Wektory przestrzenne\Wektory przestrzenne\bin\Debug\Wektory przestrzenne.pdb
+D:\3 klasa\Aplikacje desktopowe i mobilne\Klasy\Wektory przestrzenne\Wektory przestrzenne\obj\Debug\Wektory przestrzenne.csproj.AssemblyReference.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\Klasy\Wektory przestrzenne\Wektory przestrzenne\obj\Debug\Wektory przestrzenne.csproj.CoreCompileInputs.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\Klasy\Wektory przestrzenne\Wektory przestrzenne\obj\Debug\Wektory przestrzenne.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\Klasy\Wektory przestrzenne\Wektory przestrzenne\obj\Debug\Wektory przestrzenne.pdb

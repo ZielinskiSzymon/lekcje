@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn">stop</button>
+    <div id="div"></div>
+    <script>
+        let licznik = localStorage.getItem("licznik") ? parseInt(localStorage.getItem("licznik")) : 1;
+        let stop = false;
+
+        document.querySelector("#btn").addEventListener("click", () => {
+            stop = !stop;
+        });
+
+        document.querySelector("#div").textContent = "Sekundy na stronie " + licznik;
+
+        function zewnetrzna() {
+            if (!stop) {
+                licznik++;
+                document.querySelector("#div").textContent = "Sekundy na stronie " + licznik;
+                localStorage.setItem("licznik", licznik);
+                console.log(licznik);
+            }
+        }
+
+        const liczenie = setInterval(zewnetrzna, 1000);
+    </script>
+</body>
+</html>

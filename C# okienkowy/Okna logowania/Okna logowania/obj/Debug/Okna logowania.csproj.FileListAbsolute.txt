@@ -1,0 +1,26 @@
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\bin\Debug\Okna logowania.exe.config
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\bin\Debug\Okna logowania.exe
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\bin\Debug\Okna logowania.pdb
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.exe
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.pdb
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Glowny.resources
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Logowanie.resources
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Rejestracja.resources
+E:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.EkranKoncowy.resources
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\bin\Debug\Okna logowania.exe.config
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\bin\Debug\Okna logowania.exe
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\bin\Debug\Okna logowania.pdb
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.csproj.AssemblyReference.cache
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.EkranKoncowy.resources
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Glowny.resources
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Logowanie.resources
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Properties.Resources.resources
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna_logowania.Rejestracja.resources
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.csproj.GenerateResource.cache
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.csproj.CoreCompileInputs.cache
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.exe
+D:\3 klasa\C# okienkowy\Okna logowania\Okna logowania\obj\Debug\Okna logowania.pdb

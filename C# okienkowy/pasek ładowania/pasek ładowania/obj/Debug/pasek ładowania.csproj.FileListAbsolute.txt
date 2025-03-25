@@ -1,0 +1,12 @@
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\bin\Debug\pasek ładowania.exe.config
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\bin\Debug\pasek ładowania.exe
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\bin\Debug\pasek ładowania.pdb
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek ładowania.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek ładowania.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek_ładowania.MainForm.resources
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek_ładowania.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek ładowania.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek ładowania.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek ładowania.exe
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek ładowania.pdb
+E:\3 klasa\C# okienkowy\pasek ładowania\pasek ładowania\obj\Debug\pasek_ładowania.SplashScreen.resources

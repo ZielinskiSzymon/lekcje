@@ -1,0 +1,48 @@
+body {
+    background-color: lightgrey;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.liczby {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    margin: 4px;
+}
+
+.element {
+    text-align: center;
+    width: 40px;
+    margin: 4px;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    line-height: 40px;
+    height: 136px;
+    line-height: 136px;
+}
+
+.black {
+    background-color: black;
+    line-height: 40px;
+    height: 40px;
+}
+
+.red {
+    background-color: red;
+    line-height: 40px;
+    height: 40px;
+}

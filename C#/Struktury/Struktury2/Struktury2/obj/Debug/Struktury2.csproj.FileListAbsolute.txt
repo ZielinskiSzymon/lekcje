@@ -1,0 +1,7 @@
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\Struktury2\Struktury2\bin\Debug\Struktury2.exe.config
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\Struktury2\Struktury2\bin\Debug\Struktury2.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\Struktury2\Struktury2\bin\Debug\Struktury2.pdb
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\Struktury2\Struktury2\obj\Debug\Struktury2.csproj.AssemblyReference.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\Struktury2\Struktury2\obj\Debug\Struktury2.csproj.CoreCompileInputs.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\Struktury2\Struktury2\obj\Debug\Struktury2.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\Struktury2\Struktury2\obj\Debug\Struktury2.pdb

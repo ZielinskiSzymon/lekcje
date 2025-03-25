@@ -1,0 +1,7 @@
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\bin\Debug\Struktury.exe.config
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\bin\Debug\Struktury.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\bin\Debug\Struktury.pdb
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\obj\Debug\Struktury.csproj.AssemblyReference.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\obj\Debug\Struktury.csproj.CoreCompileInputs.cache
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\obj\Debug\Struktury.exe
+D:\3 klasa\Aplikacje desktopowe i mobilne\Struktury\Struktury\obj\Debug\Struktury.pdb

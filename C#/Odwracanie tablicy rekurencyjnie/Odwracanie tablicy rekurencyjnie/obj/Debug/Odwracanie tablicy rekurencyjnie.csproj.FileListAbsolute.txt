@@ -1,0 +1,7 @@
+C:\Users\Programowanie\Desktop\mz\szkola\M_JADCZAK\C#\Odwracanie tablicy rekurencyjnie\Odwracanie tablicy rekurencyjnie\bin\Debug\Odwracanie tablicy rekurencyjnie.exe.config
+C:\Users\Programowanie\Desktop\mz\szkola\M_JADCZAK\C#\Odwracanie tablicy rekurencyjnie\Odwracanie tablicy rekurencyjnie\bin\Debug\Odwracanie tablicy rekurencyjnie.exe
+C:\Users\Programowanie\Desktop\mz\szkola\M_JADCZAK\C#\Odwracanie tablicy rekurencyjnie\Odwracanie tablicy rekurencyjnie\bin\Debug\Odwracanie tablicy rekurencyjnie.pdb
+C:\Users\Programowanie\Desktop\mz\szkola\M_JADCZAK\C#\Odwracanie tablicy rekurencyjnie\Odwracanie tablicy rekurencyjnie\obj\Debug\Odwracanie tablicy rekurencyjnie.csproj.AssemblyReference.cache
+C:\Users\Programowanie\Desktop\mz\szkola\M_JADCZAK\C#\Odwracanie tablicy rekurencyjnie\Odwracanie tablicy rekurencyjnie\obj\Debug\Odwracanie tablicy rekurencyjnie.csproj.CoreCompileInputs.cache
+C:\Users\Programowanie\Desktop\mz\szkola\M_JADCZAK\C#\Odwracanie tablicy rekurencyjnie\Odwracanie tablicy rekurencyjnie\obj\Debug\Odwracanie tablicy rekurencyjnie.exe
+C:\Users\Programowanie\Desktop\mz\szkola\M_JADCZAK\C#\Odwracanie tablicy rekurencyjnie\Odwracanie tablicy rekurencyjnie\obj\Debug\Odwracanie tablicy rekurencyjnie.pdb

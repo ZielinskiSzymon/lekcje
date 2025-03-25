@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egzaimin Form 30.09.2024", "Egzaimin Form 30.09.2024\Egzaimin Form 30.09.2024.csproj", "{B3619268-A5BB-403C-BA16-DF2E03715579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3619268-A5BB-403C-BA16-DF2E03715579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3619268-A5BB-403C-BA16-DF2E03715579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3619268-A5BB-403C-BA16-DF2E03715579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3619268-A5BB-403C-BA16-DF2E03715579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CDAD33A-8F06-44F5-B45C-1EE4E49B7F16}
+	EndGlobalSection
+EndGlobal

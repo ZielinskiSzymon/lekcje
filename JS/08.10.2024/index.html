@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        .divs{
+        
+            height: 200px;
+            width: 200px;
+            margin: 13px;
+            display: inline-block;
+            border-radius: 20px;
+            line-height: 200px;
+            text-align: center;
+            font-size: 48px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            transition: 0.5s ease;
+        }
+        ul{
+            display: inline-block;
+        }
+        .niebieski{
+            background-color: royalblue;
+        }
+        .rozowy{
+            background-color: palevioletred;
+        }
+        .red{
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <button id="btn1">Dodaj diva</button>
+    <button id="btn2">Utworz liste</button>
+    <button id="btn3">Usun pierwszego diva</button>
+    <br>
+    <div id="box"></div>
+
+    <script>
+
+        let box= document.querySelector("#box")
+        // Dodawanie diva
+        let d = 1;
+        document.querySelector("#btn1").addEventListener("click", () => {
+            let div = document.createElement("div");
+            div.textContent = d;
+            d++;
+            div.id = "div" + d;
+            div.classList.add("divs");
+            if (d % 2 == 0) {
+                div.classList.add("niebieski");
+            } else {
+                div.classList.add("rozowy");
+            }
+            div.addEventListener("mouseover", () => {
+                div.classList.add("red")
+            })
+            div.addEventListener("mouseout", () => {
+                div.classList.remove("red")
+            })
+
+
+            // let firstChild = box.firstChild;
+            // box.insertBefore(div, firstChild);
+            box.prepend(div)
+
+        });
+        
+
+
+        // Dodvanie listy
+        document.querySelector("#btn2").addEventListener("click", ()=>{
+                let ul = document.createElement("ul");
+                box.appendChild(ul);
+                
+                for(let i = 0; i<10; i++){
+                    let li = document.createElement("li");
+                    li.textContent="Li "+(i+1);
+                    
+                    box.appendChild(li);
+                }
+                document.querySelector("#btn2").disabled = true
+        })
+
+
+        //Usuwanie diva
+        document.querySelector("#btn3").addEventListener("click", ()=>{
+            let divs = document.querySelectorAll(".divs");
+            let length = divs.length;
+            console.log (length)
+            
+            if(length!=0 ){
+                divs[0].remove();
+                d--;
+            }
+        })
+        
+        
+
+
+        
+    </script>
+</body>
+</html>

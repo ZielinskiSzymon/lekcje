@@ -1,0 +1,7 @@
+D:\3 klasa\C#\Interfejsy\interfejs3\interfejs3\bin\Debug\interfejs3.exe.config
+D:\3 klasa\C#\Interfejsy\interfejs3\interfejs3\bin\Debug\interfejs3.exe
+D:\3 klasa\C#\Interfejsy\interfejs3\interfejs3\bin\Debug\interfejs3.pdb
+D:\3 klasa\C#\Interfejsy\interfejs3\interfejs3\obj\Debug\interfejs3.csproj.AssemblyReference.cache
+D:\3 klasa\C#\Interfejsy\interfejs3\interfejs3\obj\Debug\interfejs3.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\Interfejsy\interfejs3\interfejs3\obj\Debug\interfejs3.exe
+D:\3 klasa\C#\Interfejsy\interfejs3\interfejs3\obj\Debug\interfejs3.pdb

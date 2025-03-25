@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gra z wiedźmina", "Gra z wiedźmina\Gra z wiedźmina.csproj", "{AB163FFE-0FCB-4F21-9FFB-55E0EA0F0D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB163FFE-0FCB-4F21-9FFB-55E0EA0F0D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB163FFE-0FCB-4F21-9FFB-55E0EA0F0D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB163FFE-0FCB-4F21-9FFB-55E0EA0F0D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB163FFE-0FCB-4F21-9FFB-55E0EA0F0D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D2137FE-9D58-4C97-8DFB-8930F44BF9E3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\3 klasa\C#\Livczby rzymskie\Livczby rzymskie\bin\Debug\Livczby rzymskie.exe.config
+D:\3 klasa\C#\Livczby rzymskie\Livczby rzymskie\bin\Debug\Livczby rzymskie.exe
+D:\3 klasa\C#\Livczby rzymskie\Livczby rzymskie\bin\Debug\Livczby rzymskie.pdb
+D:\3 klasa\C#\Livczby rzymskie\Livczby rzymskie\obj\Debug\Livczby rzymskie.csproj.AssemblyReference.cache
+D:\3 klasa\C#\Livczby rzymskie\Livczby rzymskie\obj\Debug\Livczby rzymskie.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\Livczby rzymskie\Livczby rzymskie\obj\Debug\Livczby rzymskie.exe
+D:\3 klasa\C#\Livczby rzymskie\Livczby rzymskie\obj\Debug\Livczby rzymskie.pdb

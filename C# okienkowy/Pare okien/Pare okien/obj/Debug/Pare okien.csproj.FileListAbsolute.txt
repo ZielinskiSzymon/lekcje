@@ -1,0 +1,12 @@
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\bin\Debug\Pare okien.exe.config
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\bin\Debug\Pare okien.exe
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\bin\Debug\Pare okien.pdb
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare okien.csproj.AssemblyReference.cache
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare okien.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare_okien.Form1.resources
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare_okien.Form2.resources
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare_okien.Properties.Resources.resources
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare okien.csproj.GenerateResource.cache
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare okien.csproj.CoreCompileInputs.cache
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare okien.exe
+E:\3 klasa\C# okienkowy\Pare okien\Pare okien\obj\Debug\Pare okien.pdb

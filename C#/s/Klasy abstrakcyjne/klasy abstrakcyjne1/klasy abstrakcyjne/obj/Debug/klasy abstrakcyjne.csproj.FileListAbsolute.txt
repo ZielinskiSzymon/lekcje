@@ -1,0 +1,14 @@
+D:\3 klasa\C#\klasy abstrakcyjne\klasy abstrakcyjne\bin\Debug\klasy abstrakcyjne.exe.config
+D:\3 klasa\C#\klasy abstrakcyjne\klasy abstrakcyjne\bin\Debug\klasy abstrakcyjne.exe
+D:\3 klasa\C#\klasy abstrakcyjne\klasy abstrakcyjne\bin\Debug\klasy abstrakcyjne.pdb
+D:\3 klasa\C#\klasy abstrakcyjne\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.csproj.AssemblyReference.cache
+D:\3 klasa\C#\klasy abstrakcyjne\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.csproj.CoreCompileInputs.cache
+D:\3 klasa\C#\klasy abstrakcyjne\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.exe
+D:\3 klasa\C#\klasy abstrakcyjne\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.pdb
+E:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne1\klasy abstrakcyjne\bin\Debug\klasy abstrakcyjne.exe.config
+E:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne1\klasy abstrakcyjne\bin\Debug\klasy abstrakcyjne.exe
+E:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne1\klasy abstrakcyjne\bin\Debug\klasy abstrakcyjne.pdb
+E:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne1\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.csproj.AssemblyReference.cache
+E:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne1\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.csproj.CoreCompileInputs.cache
+E:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne1\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.exe
+E:\3 klasa\C#\Klasy abstrakcyjne\klasy abstrakcyjne1\klasy abstrakcyjne\obj\Debug\klasy abstrakcyjne.pdb

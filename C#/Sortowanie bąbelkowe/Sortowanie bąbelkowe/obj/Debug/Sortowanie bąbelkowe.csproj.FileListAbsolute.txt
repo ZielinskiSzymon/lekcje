@@ -1,0 +1,8 @@
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\bin\Debug\Sortowanie bąbelkowe.exe.config
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\bin\Debug\Sortowanie bąbelkowe.exe
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\bin\Debug\Sortowanie bąbelkowe.pdb
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\obj\Debug\Sortowanie bąbelkowe.csproj.AssemblyReference.cache
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\obj\Debug\Sortowanie bąbelkowe.csproj.SuggestedBindingRedirects.cache
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\obj\Debug\Sortowanie bąbelkowe.csproj.CoreCompileInputs.cache
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\obj\Debug\Sortowanie bąbelkowe.exe
+E:\3 klasa\C#\Sortowanie bąbelkowe\Sortowanie bąbelkowe\obj\Debug\Sortowanie bąbelkowe.pdb

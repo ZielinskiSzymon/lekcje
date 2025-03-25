@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <title>Document</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        .red{
+            color: red;
+        }
+        i{
+            color: goldenrod;
+            font-size: 80px;
+            display: inline-block;
+        }
+        span{
+            font-size: 24px;
+            position: relative;
+            color: black;
+            left: -50px;
+            top: -20px;
+            z-index: 999;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="box"></div>
+    <button id="btn1">Dodaj gwiazdke</button>
+    <button id="btn3">Usun ostatnia gwiazdke</button>
+
+    <script>
+        let box= document.querySelector("#box")
+
+        // Dodawanie diva
+        let d = 1;
+        document.querySelector("#btn1").addEventListener("click", () => {
+            let i = document.createElement("i");
+
+            if(d<=6){
+
+                i.classList.add("fa-solid")
+                i.classList.add("fa-star")
+
+                i.addEventListener("mouseover", () => {
+                    i.classList.add("red")
+                })
+                i.addEventListener("mouseout", () => {
+                    i.classList.remove("red")
+                })
+                i.innerHTML="<span>"+d+"</span>"
+                box.appendChild(i);
+                d++;
+                
+            }else
+            alert("Maksymalna ocena to 6")
+
+        });
+
+
+        //Usuwanie diva
+        document.querySelector("#btn3").addEventListener("click", ()=>{
+            let i = document.querySelectorAll("i");
+            let length = i.length;
+            
+            if(length!=0 ){
+                i[length-1].remove();
+                d--;
+                console.log (length)
+            }
+        })
+        
+        
+
+
+        
+    </script>
+</body>
+</html>
