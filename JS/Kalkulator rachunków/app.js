@@ -85,28 +85,6 @@ function sortAscending(){
     sum();
 }
 
-function search(){
-    let nazwy = document.querySelectorAll(".nazwy");
-    let szukaj = document.querySelector("#search").value;
-    nazwy.forEach(nazwa => {
-        if(nazwa.innerText.toLowerCase().includes(szukaj.toLowerCase())){
-            nazwa.parentElement.style.display="table-row";
-        }else{
-            nazwa.parentElement.style.display="none";
-        }
-    });
-    sum();
-}
-
-function usunFiltr(){
-    let nazwy = document.querySelectorAll(".nazwy");
-
-    nazwy.forEach(nazwa => {
-        nazwa.parentElement.style.display="table-row";
-    });
-    sum();
-}
-
 function exportToCsv(){
     let nazwy = document.querySelectorAll(".nazwy");
     let ceny = document.querySelectorAll(".ceny");
@@ -167,8 +145,6 @@ document.querySelector("table").addEventListener("click", (e)=>{
 
 document.querySelector("#sortAscending").addEventListener("click", sortAscending);
 document.querySelector("#sortDescending").addEventListener("click", sortDescending);
-document.querySelector("#filtr").addEventListener("click", search);
-document.querySelector("#usunFiltr").addEventListener("click", usunFiltr);
 document.querySelector("#eksport").addEventListener("click", exportToCsv);
 document.querySelector("#search").addEventListener("input", search);
 
