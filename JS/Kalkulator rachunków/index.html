@@ -9,10 +9,27 @@
 <body>
     <div class="inputs">
         <h1>Kalkulator opłat rachunków</h1>
+        <label for="name">Nazwa usługi:</label>
         <input type="text" id="name" class="inputs1" placeholder="Nazwa usługi">
+        
+        <label for="kwota">Kwota opłaty:</label>
         <input type="number" id="kwota" class="inputs1" placeholder="Kwota opłaty">
-        <button id="add" class="btns1">Dodaj opłate</button><br>
+        
+        <button id="add" class="btns1">Dodaj opłatę</button><br>
     </div>
+    
+    <!-- Sorting & Filtering controls -->
+    <div class="sort">
+        <h2>Koszt całkowity: <span id="kosztCalkowity">00.00 zł</span></h2>
+        <button id="sortAscending" class="btns1">Sortuj rosnąco</button>
+        <button id="sortDescending" class="btns1">Sortuj malejąco</button><br>
+        
+        <!-- Updated placeholder to show the filter message -->
+        <input type="text" id="search" class="inputs1" placeholder="Wprowadź nazwę usługi, aby filtrować">
+        
+        <button id="eksport" class="btns1">Eksportuj do CSV</button>
+    </div>
+
     <div class="elements">
         <table id="table">
             <tr class="tr1">
@@ -20,17 +37,7 @@
                 <th>Kwota</th>
                 <th>Akcja</th>
             </tr>
-
         </table>
-    </div>
-    <div class="sort">
-        <h2>Koszt całkowity: <span id="kosztCalkowity">00.00 zł</span></h4>
-        <button id="sortAscending" class="btns1">Sortuj rosnąco</button>
-        <button id="sortDescending" class="btns1">Sortuj malejąco</button><br>
-        <input type="text" id="search" class="inputs1" placeholder="Szukaj usługi">
-        <button id="filtr" class="btns1">Filtruj</button>
-        <button id="usunFiltr" class="btns1">Usuń Filtr</button><br>
-        <button id="eksport" class="btns1">Eksportuj do csv</button>
     </div>
 
     <script src="app.js"></script>

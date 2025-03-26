@@ -170,3 +170,17 @@ document.querySelector("#sortDescending").addEventListener("click", sortDescendi
 document.querySelector("#filtr").addEventListener("click", search);
 document.querySelector("#usunFiltr").addEventListener("click", usunFiltr);
 document.querySelector("#eksport").addEventListener("click", exportToCsv);
+document.querySelector("#search").addEventListener("input", search);
+
+function search(){
+    let nazwy = document.querySelectorAll(".nazwy");
+    let szukaj = document.querySelector("#search").value;
+    nazwy.forEach(nazwa => {
+        if(nazwa.innerText.toLowerCase().includes(szukaj.toLowerCase())){
+            nazwa.parentElement.style.display="table-row";
+        }else{
+            nazwa.parentElement.style.display="none";
+        }
+    });
+    sum();
+}
