@@ -75,5 +75,4 @@ function convertCurrency() {
 document.getElementById("refreshButton").addEventListener("click", fetchCurrencyRates);
 document.getElementById("convertButton").addEventListener("click", convertCurrency);
 
-// Pobierz dane przy pierwszym załadowaniu strony
 fetchCurrencyRates();

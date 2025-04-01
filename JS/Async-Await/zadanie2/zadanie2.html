@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pogoda w mieście</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="weather-card">
+            <div class="header">
+                <h1><i class="fas fa-cloud-sun"></i> Pogodynka</h1>
+                <p class="subtitle">Sprawdź aktualną pogodę w dowolnym mieście</p>
+            </div>
+            
+            <div class="search-container">
+                <input type="text" id="city" placeholder="Wpisz nazwę miasta..." />
+                <button id="checkWeather"><i class="fas fa-search"></i> Sprawdź</button>
+            </div>
+            
+            <div id="weatherInfo" class="weather-info">
+                <div class="weather-main">
+                    <div class="weather-icon" id="weatherIcon"></div>
+                    <div class="temperature" id="temperature"></div>
+                </div>
+                <div class="weather-details" id="weatherDetails"></div>
+            </div>
+            
+            <div class="footer">
+                <p class="update-time" id="updateTime"></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="background-animation">
+        <div class="circle circle-1"></div>
+        <div class="circle circle-2"></div>
+        <div class="circle circle-3"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
