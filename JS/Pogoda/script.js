@@ -3,15 +3,16 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Dodanie obsługi Enter w polu input
   document.getElementById('city').addEventListener('keypress', function(e) {
-      if (e.key === 'Enter') {
-          getWeather();
-      }
+    if (e.key === 'Enter') {
+      getWeather();
+    }
   });
   
   // Sprawdź pogodę dla domyślnego miasta (Warszawa) przy pierwszym załadowaniu
   document.getElementById('city').value = 'Warszawa';
   getWeather();
 });
+const locationInfo = document.createElement('h3');
 
 async function getWeather() {
   const city = document.getElementById('city').value.trim();
@@ -70,7 +71,6 @@ async function getWeather() {
       `;
       
       // Pokazanie informacji o lokalizacji
-      const locationInfo = document.createElement('h3');
       locationInfo.textContent = `${data.location.name}, ${data.location.country}`;
       weatherInfo.insertBefore(locationInfo, weatherInfo.firstChild);
       
