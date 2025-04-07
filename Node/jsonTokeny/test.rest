@@ -1,0 +1,23 @@
+### Rejestracja nowego usera
+
+POST http://localhost:3000/api/register
+Content-Type: application/json
+
+{
+    "username": "Cezary Baryka",
+    "password": "12345678"
+}
+
+### Logowanie usera
+POST http://localhost:3000/api/login
+Content-Type: application/json
+
+{
+    "username": "Cezary Baryka",
+    "password": "12345678"
+}
+
+### Sprawdzanie protected
+
+GET http://localhost:3000/api/protected
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZjM5NzE3M2E0MTBhZDhlOGQ4NTRhNiIsImlhdCI6MTc0NDAxNzE3OCwiZXhwIjoxNzQ0MDIwNzc4fQ.Epi8HMLHk7LygSl0I2hmZGNE0GRIOVGwDrzx3qb2GR4

@@ -1,0 +1,13 @@
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\bin\Debug\Algorytmy Okienkowe.exe.config
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\bin\Debug\Algorytmy Okienkowe.exe
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\bin\Debug\Algorytmy Okienkowe.pdb
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy Okienkowe.csproj.AssemblyReference.cache
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy_Okienkowe.Form1.resources
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy_Okienkowe.Properties.Resources.resources
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy Okienkowe.csproj.GenerateResource.cache
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy Okienkowe.csproj.CoreCompileInputs.cache
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy Okienkowe.exe
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy Okienkowe.pdb
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy_Okienkowe.Pierwsze.resources
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy_Okienkowe.Wartownik.resources
+C:\Users\sala104a\Desktop\07.04.2025\Algorytmy Okienkowe\Algorytmy Okienkowe\obj\Debug\Algorytmy_Okienkowe.Wybieranie.resources
