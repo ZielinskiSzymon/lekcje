@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wyszukiwarka Przepisów Kulinarnych</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Wyszukiwarka Przepisów Kulinarnych</h1>
+
+        <div id="search-tab" class="tab-content active">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Wpisz nazwę potrawy (np. chicken, pasta, soup)">
+                <button id="search-btn">Szukaj</button>
+            </div>
+
+            <div class="results-container" id="results">
+            </div>
+        </div>
+    </div>
+
+    <div id="recipe-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div class="modal-header">
+                <img id="modal-image" class="modal-image" src="" alt="">
+                <div>
+                    <h2 id="modal-title" class="modal-title"></h2>
+                    <div id="modal-category" class="modal-category"></div>
+                    <div id="modal-area" class="modal-area"></div>
+                </div>
+            </div>
+            <div class="modal-section">
+                <h3 class="modal-section-title">Składniki</h3>
+                <div id="modal-ingredients" class="ingredients-list"></div>
+            </div>
+            <div class="modal-section">
+                <h3 class="modal-section-title">Instrukcja przygotowania</h3>
+                <div id="modal-instructions" class="instructions"></div>
+            </div>
+            <div id="modal-youtube-container"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

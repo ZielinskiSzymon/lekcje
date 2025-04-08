@@ -1,18 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('checkWeather').addEventListener('click', getWeather);
   
-  // Dodanie obsługi Enter w polu input
   document.getElementById('city').addEventListener('keypress', function(e) {
     if (e.key === 'Enter') {
       getWeather();
     }
   });
   
-  // Sprawdź pogodę dla domyślnego miasta (Warszawa) przy pierwszym załadowaniu
-  document.getElementById('city').value = 'Warszawa';
+  document.getElementById('city').value = 'Brzesko';
   getWeather();
 });
-const locationInfo = document.createElement('h3');
 
 async function getWeather() {
   const city = document.getElementById('city').value.trim();
@@ -21,6 +18,13 @@ async function getWeather() {
   const temperature = document.getElementById('temperature');
   const weatherDetails = document.getElementById('weatherDetails');
   const updateTime = document.getElementById('updateTime');
+  
+  const existingLocationInfo = weatherInfo.querySelector('h3');
+  if (existingLocationInfo) {
+    existingLocationInfo.remove();
+  }
+  
+  const locationInfo = document.createElement('h3');
   
   weatherInfo.style.display = 'none';
   weatherIcon.innerHTML = '';
@@ -32,11 +36,10 @@ async function getWeather() {
       return;
   }
   
-  const apiKey = '1358cadb264b4452b7c92335250104'; // Twój klucz API z WeatherAPI
+  const apiKey = '1358cadb264b4452b7c92335250104';
   const url = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${city}&lang=pl`;
   
   try {
-      // Pokazanie animacji ładowania
       weatherInfo.style.display = 'block';
       weatherIcon.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
       temperature.textContent = '...';
@@ -48,19 +51,15 @@ async function getWeather() {
       
       const data = await response.json();
       
-      // Aktualizacja czasu
       const now = new Date();
       updateTime.textContent = `Ostatnia aktualizacja: ${now.toLocaleTimeString()}`;
       
-      // Ustawienie ikony pogody
       const weatherCode = data.current.condition.code;
       const isDay = data.current.is_day;
       setWeatherIcon(weatherIcon, weatherCode, isDay);
       
-      // Ustawienie temperatury
       temperature.innerHTML = `${Math.round(data.current.temp_c)}<span class="degree">°C</span>`;
       
-      // Ustawienie szczegółów pogody
       weatherDetails.innerHTML = `
           <p><i class="fas fa-info-circle"></i> <span>${data.current.condition.text}</span></p>
           <p><i class="fas fa-temperature-high"></i> <span>Odczuwalna: ${Math.round(data.current.feelslike_c)}°C</span></p>
@@ -70,8 +69,8 @@ async function getWeather() {
           <p><i class="fas fa-eye"></i> <span>Widoczność: ${data.current.vis_km} km</span></p>
       `;
       
-      // Pokazanie informacji o lokalizacji
       locationInfo.textContent = `${data.location.name}, ${data.location.country}`;
+      locationInfo.className = 'location-info';
       weatherInfo.insertBefore(locationInfo, weatherInfo.firstChild);
       
       weatherInfo.style.display = 'block';
@@ -83,54 +82,54 @@ async function getWeather() {
 
 function setWeatherIcon(element, code, isDay) {
   const iconMap = {
-      1000: isDay ? 'fa-sun' : 'fa-moon', // Sunny / Clear
-      1003: isDay ? 'fa-cloud-sun' : 'fa-cloud-moon', // Partly cloudy
-      1006: 'fa-cloud', // Cloudy
-      1009: 'fa-cloud', // Overcast
-      1030: 'fa-smog', // Mist
-      1063: 'fa-cloud-rain', // Patchy rain possible
-      1066: 'fa-snowflake', // Patchy snow possible
-      1069: 'fa-cloud-meatball', // Patchy sleet possible
-      1072: 'fa-cloud-meatball', // Patchy freezing drizzle possible
-      1087: 'fa-bolt', // Thundery outbreaks possible
-      1114: 'fa-wind', // Blowing snow
-      1117: 'fa-wind', // Blizzard
-      1135: 'fa-smog', // Fog
-      1147: 'fa-smog', // Freezing fog
-      1150: 'fa-cloud-rain', // Patchy light drizzle
-      1153: 'fa-cloud-rain', // Light drizzle
-      1168: 'fa-cloud-rain', // Freezing drizzle
-      1171: 'fa-cloud-rain', // Heavy freezing drizzle
-      1180: 'fa-cloud-rain', // Patchy light rain
-      1183: 'fa-cloud-rain', // Light rain
-      1186: 'fa-cloud-showers-heavy', // Moderate rain at times
-      1189: 'fa-cloud-showers-heavy', // Moderate rain
-      1192: 'fa-cloud-showers-heavy', // Heavy rain at times
-      1195: 'fa-cloud-showers-heavy', // Heavy rain
-      1198: 'fa-temperature-low', // Light freezing rain
-      1201: 'fa-temperature-low', // Moderate or heavy freezing rain
-      1204: 'fa-cloud-meatball', // Light sleet
-      1207: 'fa-cloud-meatball', // Moderate or heavy sleet
-      1210: 'fa-snowflake', // Patchy light snow
-      1213: 'fa-snowflake', // Light snow
-      1216: 'fa-snowflake', // Patchy moderate snow
-      1219: 'fa-snowflake', // Moderate snow
-      1222: 'fa-snowflake', // Patchy heavy snow
-      1225: 'fa-snowflake', // Heavy snow
-      1237: 'fa-icicles', // Ice pellets
-      1240: 'fa-cloud-showers-heavy', // Light rain shower
-      1243: 'fa-cloud-showers-heavy', // Moderate or heavy rain shower
-      1246: 'fa-cloud-showers-heavy', // Torrential rain shower
-      1249: 'fa-cloud-meatball', // Light sleet showers
-      1252: 'fa-cloud-meatball', // Moderate or heavy sleet showers
-      1255: 'fa-snowflake', // Light snow showers
-      1258: 'fa-snowflake', // Moderate or heavy snow showers
-      1261: 'fa-icicles', // Light showers of ice pellets
-      1264: 'fa-icicles', // Moderate or heavy showers of ice pellets
-      1273: 'fa-bolt', // Patchy light rain with thunder
-      1276: 'fa-bolt', // Moderate or heavy rain with thunder
-      1279: 'fa-bolt', // Patchy light snow with thunder
-      1282: 'fa-bolt', // Moderate or heavy snow with thunder
+      1000: isDay ? 'fa-sun' : 'fa-moon',
+      1003: isDay ? 'fa-cloud-sun' : 'fa-cloud-moon',
+      1006: 'fa-cloud',
+      1009: 'fa-cloud',
+      1030: 'fa-smog',
+      1063: 'fa-cloud-rain',
+      1066: 'fa-snowflake',
+      1069: 'fa-cloud-meatball',
+      1072: 'fa-cloud-meatball',
+      1087: 'fa-bolt',
+      1114: 'fa-wind',
+      1117: 'fa-wind',
+      1135: 'fa-smog',
+      1147: 'fa-smog',
+      1150: 'fa-cloud-rain',
+      1153: 'fa-cloud-rain',
+      1168: 'fa-cloud-rain',
+      1171: 'fa-cloud-rain',
+      1180: 'fa-cloud-rain',
+      1183: 'fa-cloud-rain',
+      1186: 'fa-cloud-showers-heavy',
+      1189: 'fa-cloud-showers-heavy',
+      1192: 'fa-cloud-showers-heavy',
+      1195: 'fa-cloud-showers-heavy',
+      1198: 'fa-temperature-low',
+      1201: 'fa-temperature-low',
+      1204: 'fa-cloud-meatball',
+      1207: 'fa-cloud-meatball',
+      1210: 'fa-snowflake',
+      1213: 'fa-snowflake',
+      1216: 'fa-snowflake',
+      1219: 'fa-snowflake',
+      1222: 'fa-snowflake',
+      1225: 'fa-snowflake',
+      1237: 'fa-icicles',
+      1240: 'fa-cloud-showers-heavy',
+      1243: 'fa-cloud-showers-heavy',
+      1246: 'fa-cloud-showers-heavy',
+      1249: 'fa-cloud-meatball',
+      1252: 'fa-cloud-meatball',
+      1255: 'fa-snowflake',
+      1258: 'fa-snowflake',
+      1261: 'fa-icicles',
+      1264: 'fa-icicles',
+      1273: 'fa-bolt',
+      1276: 'fa-bolt',
+      1279: 'fa-bolt',
+      1282: 'fa-bolt',
   };
   
   const defaultIcon = isDay ? 'fa-cloud-sun' : 'fa-cloud-moon';
