@@ -83,6 +83,7 @@ body {
     transform: translateY(0);
     transition: all 0.3s ease;
     border: 1px solid rgba(255, 255, 255, 0.2);
+    z-index: 1;
 }
 
 .container:hover {
@@ -358,4 +359,41 @@ button:active {
     100% {
         transform: translate(0, 0) rotate(0deg);
     }
+}
+
+#laseczka1{
+    display: none;
+    position: absolute;
+    top: 10dvh;
+    left: -15dvw;
+    height: 90dvh;
+}
+
+#laseczka2{
+    display: none;
+    position: absolute;
+    right: 8dvw;
+    height: 100dvh;
+}
+.age-notification {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 1000;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    display: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.age-notification button {
+    width: 150px;
+    margin: 10px 0 ;
 }

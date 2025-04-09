@@ -1,12 +1,25 @@
 document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('checkWeather').addEventListener('click', getWeather);
   
+  document.getElementById('ageNotification').style.display = 'flex';
+
   document.getElementById('city').addEventListener('keypress', function(e) {
     if (e.key === 'Enter') {
       getWeather();
     }
   });
   
+  document.getElementById("ageYes").addEventListener("click", function() {
+    document.getElementById("ageNotification").style.display = "none";
+    document.getElementById("laseczka1").style.display = "block";
+    document.getElementById("laseczka2").style.display = "block";
+  })
+  document.getElementById("ageNo").addEventListener("click", function() {
+    document.getElementById("ageNotification").style.display = "none";
+    document.getElementById("laseczka1").style.display = "none";
+    document.getElementById("laseczka2").style.display = "none";
+  })
+
   document.getElementById('city').value = 'Brzesko';
   getWeather();
 });
