@@ -47,7 +47,6 @@ async function searchRecipes() {
     const searchTerm = searchInput.value.trim();
     
     if (!searchTerm) {
-        showNotification('Proszę wpisać nazwę potrawy', 'error');
         return;
     }
     
@@ -65,15 +64,12 @@ async function searchRecipes() {
                 createMealCard(meal, isFavorite);
             });
             
-            showNotification(`Znaleziono ${data.meals.length} przepisów`, 'success');
         } else {
             resultsContainer.innerHTML = '<p class="no-results">Nie znaleziono przepisów. Spróbuj wpisać inną nazwę potrawy.</p>';
-            showNotification('Nie znaleziono przepisów', 'warning');
         }
     } catch (error) {
         console.error('Błąd podczas wyszukiwania przepisów:', error);
         resultsContainer.innerHTML = '<p class="no-results">Wystąpił błąd podczas wyszukiwania przepisów. Spróbuj ponownie później.</p>';
-        showNotification('Błąd podczas wyszukiwania przepisów', 'error');
     }
 }
 
@@ -84,11 +80,9 @@ async function getRandomRecipe() {
         
         if (data.meals && data.meals.length > 0) {
             showRecipeDetails(data.meals[0].idMeal);
-            showNotification('Wylosowano przepis dla Ciebie!', 'success');
         }
     } catch (error) {
         console.error('Błąd podczas pobierania losowego przepisu:', error);
-        showNotification('Nie udało się pobrać losowego przepisu', 'error');
     }
 }
 
@@ -168,7 +162,6 @@ async function showRecipeDetails(mealId) {
         }
     } catch (error) {
         console.error('Błąd podczas pobierania szczegółów przepisu:', error);
-        showNotification('Wystąpił błąd podczas pobierania szczegółów przepisu', 'error');
     }
 }
 
@@ -177,10 +170,8 @@ function toggleFavorite(meal) {
     
     if (index === -1) {
         favorites.push(meal);
-        showNotification(`"${meal.strMeal}" dodano do ulubionych`, 'success');
     } else {
         favorites.splice(index, 1);
-        showNotification(`"${meal.strMeal}" usunięto z ulubionych`, 'info');
     }
     
     localStorage.setItem('favorites', JSON.stringify(favorites));
@@ -222,94 +213,6 @@ function displayFavorites() {
     favorites.forEach(meal => {
         createMealCard(meal, true, favoritesContainer);
     });
-}
-
-function showNotification(message, type = 'info') {
-    let notificationContainer = document.getElementById('notification-container');
-    
-    if (!notificationContainer) {
-        notificationContainer = document.createElement('div');
-        notificationContainer.id = 'notification-container';
-        notificationContainer.style.position = 'fixed';
-        notificationContainer.style.bottom = '20px';
-        notificationContainer.style.right = '20px';
-        notificationContainer.style.zIndex = '9999';
-        document.body.appendChild(notificationContainer);
-    }
-    
-    const notification = document.createElement('div');
-    notification.className = `notification ${type}`;
-    notification.style.backgroundColor = getNotificationColor(type);
-    notification.style.color = '#fff';
-    notification.style.padding = '12px 20px';
-    notification.style.marginTop = '10px';
-    notification.style.borderRadius = '4px';
-    notification.style.boxShadow = '0 2px 5px rgba(0,0,0,0.2)';
-    notification.style.display = 'flex';
-    notification.style.alignItems = 'center';
-    notification.style.justifyContent = 'space-between';
-    notification.style.minWidth = '250px';
-    notification.style.maxWidth = '350px';
-    notification.style.transform = 'translateX(400px)';
-    notification.style.transition = 'all 0.3s ease-in-out';
-    
-    const icon = document.createElement('i');
-    icon.className = getNotificationIcon(type);
-    icon.style.marginRight = '10px';
-    
-    const text = document.createElement('span');
-    text.textContent = message;
-    text.style.flex = '1';
-    
-    const closeButton = document.createElement('span');
-    closeButton.innerHTML = '&times;';
-    closeButton.style.marginLeft = '10px';
-    closeButton.style.cursor = 'pointer';
-    closeButton.style.fontSize = '20px';
-    
-    closeButton.addEventListener('click', () => {
-        notification.style.opacity = '0';
-        notification.style.transform = 'translateX(400px)';
-        setTimeout(() => notification.remove(), 300);
-    });
-    
-    notification.appendChild(icon);
-    notification.appendChild(text);
-    notification.appendChild(closeButton);
-    
-    notificationContainer.appendChild(notification);
-    
-    setTimeout(() => {
-        notification.style.transform = 'translateX(0)';
-    }, 10);
-    
-    setTimeout(() => {
-        if (notification.parentNode) {
-            notification.style.opacity = '0';
-            notification.style.transform = 'translateX(400px)';
-            setTimeout(() => notification.remove(), 300);
-        }
-    }, 5000);
-}
-
-function getNotificationColor(type) {
-    switch (type) {
-        case 'success': return '#2ecc71';
-        case 'error': return '#e74c3c';
-        case 'warning': return '#f39c12';
-        case 'info': return '#3498db';
-        default: return '#3498db';
-    }
-}
-
-function getNotificationIcon(type) {
-    switch (type) {
-        case 'success': return 'fas fa-check-circle';
-        case 'error': return 'fas fa-exclamation-circle';
-        case 'warning': return 'fas fa-exclamation-triangle';
-        case 'info': return 'fas fa-info-circle';
-        default: return 'fas fa-info-circle';
-    }
 }
 
 closeBtn.addEventListener('click', () => {
